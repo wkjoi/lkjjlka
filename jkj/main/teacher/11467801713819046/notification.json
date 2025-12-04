@@ -1,0 +1,45 @@
+{
+  "message": null,
+  "status": "success",
+  "notifications": [
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Mahadi Hasan",
+      "emoji": "📝",
+      "id": "notif_3",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Mahadi Hasan has created a new post",
+      "postId": "post_4",
+      "timestamp": "2025-11-20 00:14:37",
+      "title": "New Post: Test",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Mahadi Hasan",
+      "emoji": "📝",
+      "id": "notif_2",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Mahadi Hasan has updated a post",
+      "postId": "post_3",
+      "timestamp": "2025-11-17 14:39:04",
+      "title": "Updated Post: নোটিশ ও পরীক্ষা সংক্রান্ত",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Mahadi Hasan",
+      "emoji": "📝",
+      "id": "notif_1",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Mahadi Hasan has updated a post",
+      "postId": "post_1",
+      "timestamp": "2025-11-17 14:32:36",
+      "title": "Updated Post: নতুন প্লাটফর্ম এ স্বাগত",
+      "type": "post"
+    }
+  ]
+}

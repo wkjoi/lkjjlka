@@ -1,0 +1,71 @@
+{
+  "message": null,
+  "status": "success",
+  "notifications": [
+    {
+      "authorAvatar": "https://example.com/avatar.jpg",
+      "authorName": "Shibbir",
+      "emoji": "📱",
+      "id": "notification1",
+      "imageUrl": "",
+      "isRead": false,
+      "message": "Shibbir has updated a post",
+      "postId": "post123",
+      "timestamp": "2025-11-17 17:15:30",
+      "title": "Updated Post: নতুন এপ এ স্বাগতম ",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "https://example.com/avatar.jpg",
+      "authorName": "Shibbir",
+      "emoji": "📱",
+      "id": "notification2",
+      "imageUrl": "https://example.com/image.jpg",
+      "isRead": true,
+      "message": "রুটিন",
+      "postId": "post125",
+      "timestamp": "2025-10-30 09:15:30",
+      "title": "দ্বাদশ শ্রেণির প্রাক-নির্বাচনী পরীক্ষা ",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "https://example.com/avatar.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "emoji": "📱",
+      "id": "notification3",
+      "imageUrl": "https://example.com/image.jpg",
+      "isRead": true,
+      "message": "নির্দেশনা",
+      "postId": "post126",
+      "timestamp": "2025-11-02 09:15:30",
+      "title": "নোটিশ ও পরীক্ষা সংক্রান্ত ",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "https://example.com/avatar.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "emoji": "📱",
+      "id": "notification4",
+      "imageUrl": "https://example.com/image.jpg",
+      "isRead": false,
+      "message": " সম্ভাব্য তারিখ",
+      "postId": "post127",
+      "timestamp": "2025-11-13 09:15:30",
+      "title": "একাদশ শ্রেণির নবীন বরন  ",
+      "type": "post"
+    },
+    {
+      "authorAvatar": "https://example.com/avatar.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "emoji": "📱",
+      "id": "notification5",
+      "imageUrl": "https://example.com/image.jpg",
+      "isRead": true,
+      "message": "Do Not Share!",
+      "postId": "post128",
+      "timestamp": "2025-11-08 20:35:30",
+      "title": "ICT Suggestions (Class-12)",
+      "type": "post"
+    }
+  ]
+}
