@@ -4,6 +4,20 @@
     {
       "teacherProfilePic": "default_url",
       "teacherName": "Mahadi Hasan",
+      "comments": [],
+      "content": "Hello",
+      "postId": "post_5",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "ict"
+      ],
+      "timestamp": "2025-12-05 15:44:39",
+      "title": "New p 001"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Mahadi Hasan",
       "comments": [
         {
           "authorAvatar": null,
