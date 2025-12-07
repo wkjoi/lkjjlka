@@ -5,6 +5,20 @@
       "teacherProfilePic": "default_url",
       "teacherName": "Shibbir Hossen",
       "comments": [],
+      "content": "new",
+      "postId": "post_2",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "exam"
+      ],
+      "timestamp": "2025-12-07 17:57:34",
+      "title": "new post"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [],
       "content": "for checking",
       "postId": "post_1",
       "imageUrl": null,
