@@ -1,0 +1,20 @@
+{
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [],
+      "content": "for checking",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "picnic"
+      ],
+      "timestamp": "2025-12-07 17:55:34",
+      "title": "check"
+    }
+  ],
+  "status": "success"
+}
