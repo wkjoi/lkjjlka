@@ -1,48 +1,45 @@
 {
-  "message": null,
-  "posts": [
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Shibbir Hossen",
-      "comments": [],
-      "content": "new",
-      "postId": "post_4",
-      "imageUrl": null,
-      "likes": 0,
-      "tags": [
-        "outing"
-      ],
-      "timestamp": "2025-12-07 18:00:18",
-      "title": "extra"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Shibbir Hossen",
-      "comments": [],
-      "content": "new",
-      "postId": "post_3",
-      "imageUrl": null,
-      "likes": 0,
-      "tags": [
-        "exam"
-      ],
-      "timestamp": "2025-12-07 17:57:35",
-      "title": "new post"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Shibbir Hossen",
-      "comments": [],
-      "content": "for checking",
-      "postId": "post_1",
-      "imageUrl": null,
-      "likes": 0,
-      "tags": [
-        "picnic"
-      ],
-      "timestamp": "2025-12-07 17:55:34",
-      "title": "check"
-    }
-  ],
-  "status": "success"
+    "posts": [
+        {
+            "postId": "post_4",
+            "title": "extra",
+            "content": "new",
+            "teacherName": "Shibbir Hossen",
+            "timestamp": "2025-12-07 18:00:18",
+            "teacherProfilePic": "default_url",
+            "likes": 1,
+            "tags": [
+                "outing"
+            ],
+            "comments": []
+        },
+        {
+            "postId": "post_3",
+            "title": "new post",
+            "content": "new",
+            "teacherName": "Shibbir Hossen",
+            "timestamp": "2025-12-07 17:57:35",
+            "teacherProfilePic": "default_url",
+            "likes": 0,
+            "tags": [
+                "exam"
+            ],
+            "comments": []
+        },
+        {
+            "postId": "post_1",
+            "title": "check",
+            "content": "for checking",
+            "teacherName": "Shibbir Hossen",
+            "timestamp": "2025-12-07 17:55:34",
+            "teacherProfilePic": "default_url",
+            "likes": 0,
+            "tags": [
+                "picnic"
+            ],
+            "comments": []
+        }
+    ],
+    "status": "success",
+    "message": null
 }
