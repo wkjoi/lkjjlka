@@ -1,6 +1,347 @@
 {
   "model_tests": [
   {
+    "model_test_id": "65",
+    "teacher_id": "11467801713819046",
+    "difficulty": "All",
+    "test_name": "6th chapter ",
+    "chapter_name": "6",
+    "total_questions": 25,
+    "last_date": "2025-12-24",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ঘ) টেবিল",
+        "chapterId": "6",
+        "id": 473,
+        "level": "medium",
+        "options": [
+          "ক) ফিল্ড",
+          "খ) রেকর্ড",
+          "গ) কুয়েরি",
+          "ঘ) টেবিল"
+        ],
+        "question": "কোনটি ডেটাবেজের ভিত্তি?"
+      },
+      {
+        "answer": "খ) Hyperlink",
+        "chapterId": "6",
+        "id": 476,
+        "level": "medium",
+        "options": [
+          "ক) Text",
+          "খ) Hyperlink",
+          "গ) Memo",
+          "ঘ) Attachment"
+        ],
+        "question": "ডেটাবেজে ই-অ্যাড্রেস সংরক্ষণের জন্য কোন ডেটা টাইপ নির্বাচন করতে হয়?"
+      },
+      {
+        "answer": "খ) রেকর্ড",
+        "chapterId": "6",
+        "id": 477,
+        "level": "medium",
+        "options": [
+          "ক) ডেটা",
+          "খ) রেকর্ড",
+          "গ) টেবিল",
+          "ঘ) ডেটাবেজ"
+        ],
+        "question": "অনেকগুলো ফিল্ডের সমন্বয়ে গঠিত হয়-"
+      },
+      {
+        "answer": "গ) Database Management System",
+        "chapterId": "6",
+        "id": 478,
+        "level": "easy",
+        "options": [
+          "ক) Database Basic Management System",
+          "খ) Data Backup Management System",
+          "গ) Database Management System",
+          "ঘ) Database Manipulation System"
+        ],
+        "question": "DBMS কী?"
+      },
+      {
+        "answer": "ঘ) ফরেন কি",
+        "chapterId": "6",
+        "id": 481,
+        "level": "easy",
+        "options": [
+          "ক) কম্পোজিট কি",
+          "খ) অ্যাল্টারনেটিভ কি",
+          "গ) প্রাইমারি কি",
+          "ঘ) ফরেন কি"
+        ],
+        "question": "দুটি ভিন্ন ডেটা টেবিলের মধ্যে সম্পর্ক স্থাপনের জন্য কোন ফিল্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ঘ) many to many",
+        "chapterId": "6",
+        "id": 487,
+        "level": "easy",
+        "options": [
+          "ক) one to one",
+          "খ) one to many",
+          "গ) many to one",
+          "ঘ) many to many"
+        ],
+        "question": "কোন ধরনের ডেটাবেজ রিলেশনে জাংশন টেবিল ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) one to many",
+        "chapterId": "6",
+        "id": 488,
+        "level": "medium",
+        "options": [
+          "ক) one to one",
+          "খ) one to many",
+          "গ) many to one",
+          "ঘ) many to many"
+        ],
+        "question": "একটি রেকর্ডের সাথে অনেকগুলো রেকর্ড সম্পর্কযুক্ত হয় কোনটিতে?"
+      },
+      {
+        "answer": "গ) MS Access",
+        "chapterId": "6",
+        "id": 490,
+        "level": "easy",
+        "options": [
+          "ক) Google Chrome",
+          "খ) MS Word",
+          "গ) MS Access",
+          "ঘ) Notepad"
+        ],
+        "question": "DBMS সফটওয়্যার কোনটি?"
+      },
+      {
+        "answer": "গ) সর্টিং",
+        "chapterId": "6",
+        "id": 498,
+        "level": "hard",
+        "options": [
+          "ক) ইনডেক্সিং",
+          "খ) কুয়েরিং",
+          "গ) সর্টিং",
+          "ঘ) ফিল্টারিং"
+        ],
+        "question": "ডেটাবেজের রেকর্ডকে সাজানোকে কী বলে?"
+      },
+      {
+        "answer": "খ) Database Management System",
+        "chapterId": "6",
+        "id": 500,
+        "level": "medium",
+        "options": [
+          "ক) Data Based Management Software",
+          "খ) Database Management System",
+          "গ) Database Basic Management Software",
+          "ঘ) Digital Basis Management System"
+        ],
+        "question": "DBMS এর পূর্ণরূপ-"
+      },
+      {
+        "answer": "ক) ডেটা ও রেকর্ড",
+        "chapterId": "6",
+        "id": 501,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা ও রেকর্ড",
+          "খ) কুয়েরি",
+          "গ) ফর্ম",
+          "ঘ) রিপোর্ট"
+        ],
+        "question": "ডেটাবেজ টেবিলে কী সংরক্ষণ করা হয়?"
+      },
+      {
+        "answer": "ঘ) i,ii and iii",
+        "chapterId": "6",
+        "id": 502,
+        "level": "hard",
+        "options": [
+          "ক) i,ii ",
+          "খ) i,iii",
+          "গ) ii,iii",
+          "ঘ) i,ii and iii"
+        ],
+        "question": "Query langulage are -  \n i. QBE ii. SQL iii.QUEL"
+      },
+      {
+        "answer": "খ) রেকর্ড",
+        "chapterId": "6",
+        "id": 510,
+        "level": "hard",
+        "options": [
+          "ক) টেবিল",
+          "খ) রেকর্ড",
+          "গ) ফিল্ড",
+          "ঘ) রিপোর্ট"
+        ],
+        "question": "MS Access এ ডেটাবেজের প্রতিটি রো বা সারিকে কী বলে?"
+      },
+      {
+        "answer": "ক) Delete",
+        "chapterId": "6",
+        "id": 512,
+        "level": "medium",
+        "options": [
+          "ক) Delete",
+          "খ) Remove",
+          "গ) Drop",
+          "ঘ) Erase"
+        ],
+        "question": "ডেটাবেজে ডেটা মুছে ফেলার জন্য কোন কমান্ডটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) Foreign Key",
+        "chapterId": "6",
+        "id": 516,
+        "level": "hard",
+        "options": [
+          "ক) Primary Key",
+          "খ) Foreign Key",
+          "গ) Composite Key",
+          "ঘ) Candidate Key"
+        ],
+        "question": "ডেটাবেজে একটি ডেটা টেবিলের ফিল্ডকে অন্য ডেটা টেবিলের সাথে সম্পর্কযুক্ত করার জন্য কোন কি (Key) ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "খ) INSERT INTO",
+        "chapterId": "6",
+        "id": 518,
+        "level": "medium",
+        "options": [
+          "ক) UPDATE",
+          "খ) INSERT INTO",
+          "গ) CREATE TABLE",
+          "ঘ) SELECT"
+        ],
+        "question": "ডেটাবেজে নতুন ডেটা সংযোজনের জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) UPDATE",
+        "chapterId": "6",
+        "id": 520,
+        "level": "easy",
+        "options": [
+          "ক) UPDATE",
+          "খ) ALTER",
+          "গ) MODIFY",
+          "ঘ) CHANGE"
+        ],
+        "question": "ডেটাবেজে ডেটা পরিবর্তনের জন্য কোন কমান্ডটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ঘ) CREATE TABLE",
+        "chapterId": "6",
+        "id": 522,
+        "level": "hard",
+        "options": [
+          "ক) INSERT",
+          "খ) SELECT",
+          "গ) UPDATE",
+          "ঘ) CREATE TABLE"
+        ],
+        "question": "SQL এর কোন কমান্ডটি DDL এর অন্তর্ভুক্ত?"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "6",
+        "id": 526,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা পরিচালনা",
+          "গ) ডেটা নিরাপত্তা",
+          "ঘ) সবগুলো"
+        ],
+        "question": "DBMS সফটওয়্যারের প্রধান উদ্দেশ্য কী?"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "6",
+        "id": 528,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা পুনরুদ্ধার",
+          "গ) ডেটা রিলেশন",
+          "ঘ) সবগুলো"
+        ],
+        "question": "DBMS এর বৈশিষ্ট্য কোনটি?"
+      },
+      {
+        "answer": "গ) DROP",
+        "chapterId": "6",
+        "id": 535,
+        "level": "easy",
+        "options": [
+          "ক) INSERT",
+          "খ) UPDATE",
+          "গ) DROP",
+          "ঘ) DELETE"
+        ],
+        "question": "ডেটাবেজে টেবিল delete করার জন্য কোন কমান্ডটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) Hyperlink",
+        "chapterId": "6",
+        "id": 547,
+        "level": "easy",
+        "options": [
+          "ক) Text",
+          "খ) Memo",
+          "গ) Hyperlink",
+          "ঘ) Lookup Wizard"
+        ],
+        "question": "ডেটাবেজে কোনো টেক্সটকে হাইপারলিংক করার জন্য কোন ডেটা টাইপ নির্বাচন করতে হয়?"
+      },
+      {
+        "answer": "গ) MS Access",
+        "chapterId": "6",
+        "id": 550,
+        "level": "easy",
+        "options": [
+          "ক) MS Word",
+          "খ) MS Excel",
+          "গ) MS Access",
+          "ঘ) MS PowerPoint"
+        ],
+        "question": "ডেটাবেজ সফটওয়্যার কোনটি?"
+      },
+      {
+        "answer": "গ) টেবিল",
+        "chapterId": "6",
+        "id": 559,
+        "level": "medium",
+        "options": [
+          "ক) রোল",
+          "খ) ফলাফল",
+          "গ) টেবিল",
+          "ঘ) নাম"
+        ],
+        "question": "উদ্দীপকের ডেটাবেজের ভিত্তি কোনটি?"
+      },
+      {
+        "answer": "ঘ) ii ও iii",
+        "chapterId": "6",
+        "id": 562,
+        "level": "medium",
+        "options": [
+          "ক) i",
+          "খ) i ও ii",
+          "গ) i ও iii",
+          "ঘ) ii ও iii"
+        ],
+        "question": "উদ্দীপকের যে ফিল্ডগুলো প্রাইমারি কী হতে পারে- (ডেটা: \"রোল\",\"নাম\",\"রেজিঃ নং\",\"ফলাফল\"; \"১০০০০১\",\"জাহিদ\",\"৬৩২৫৫০\",\"A+\"; \"১০০০০২\",\"নেহাল\",\"৬৩২৫৫১\",\"A\"; \"১০০০০৩\",\"লাবনী\",\"৬৩২৫৫২\",\"B\"; \"১০০০০৪\",\"সাত্তার\",\"৬৩২৫৫৩\",\"A\") \n i. নাম, ii. রোল নং, iii. রেজিঃ নং"
+      }
+    ]
+  },
+  {
     "model_test_id": "64",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
