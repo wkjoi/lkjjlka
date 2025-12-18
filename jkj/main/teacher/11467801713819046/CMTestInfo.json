@@ -81,6 +81,16 @@
               "submitted_on": "2025-12-18 08:59",
               "time_taken_min": 21,
               "total_marks": 50
+            },
+            {
+              "accuracy_rate": 38,
+              "eiin": "114678",
+              "score": 19,
+              "student_id": "1146782026HUMD1107",
+              "student_name": "SHANTA AKTAR",
+              "submitted_on": "2025-12-18 09:00",
+              "time_taken_min": 24,
+              "total_marks": 50
             }
           ],
           "performance_summary": null,
