@@ -343,7 +343,7 @@ def main():
         print("Running in test mode (no Facebook posting)...\n")
     
     generator = MCQPostGenerator(
-        json_file='question_bank.json',
+        json_file='jkj/main/teacher/question_bank.json',
         page_id=page_id,
         access_token=access_token
     )
