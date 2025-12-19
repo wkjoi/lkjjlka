@@ -211,6 +211,16 @@
               "submitted_on": "2025-12-19 12:04",
               "time_taken_min": 20,
               "total_marks": 50
+            },
+            {
+              "accuracy_rate": 42,
+              "eiin": "114678",
+              "score": 21,
+              "student_id": "1146782026HUMM1122",
+              "student_name": "SETU AKTAR ",
+              "submitted_on": "2025-12-19 16:02",
+              "time_taken_min": 20,
+              "total_marks": 50
             }
           ],
           "performance_summary": null,
