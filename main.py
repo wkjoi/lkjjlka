@@ -60,7 +60,7 @@ class MCQPostGenerator:
 ✅ সঠিক উত্তরগুলো চিহ্নিত করা আছে
 
 📱 আরও MCQ Practice করতে ICT Tutor Pro App ডাউনলোড করুন:
-https://play.google.com/store/apps/details...
+https://play.google.com/store/apps/details?id=megaminds.icttutorpro
 
 #ICTTutorPro #HSC #Honours #MCQ #BoardExam"""
         
@@ -78,7 +78,7 @@ https://play.google.com/store/apps/details...
             for option in q['options']:
                 # Highlight correct answer
                 if option == q['answer']:
-                    post += f"✅ {option}\n"
+                    post += f"{option} ✅\n"
                 else:
                     post += f"{option}\n"
             
@@ -104,7 +104,7 @@ https://play.google.com/store/apps/details...
         
         main_post += "\n💬 সঠিক উত্তরগুলো কমেন্টে দেওয়া হবে!"
         main_post += "\n📱 আরও MCQ Practice করতে ICT Tutor Pro App ডাউনলোড করুন:"
-        main_post += "\nhttps://play.google.com/store/apps/details..."
+        main_post += "\nhttps://play.google.com/store/apps/details?id=megaminds.icttutorpro"
         main_post += "\n\n#ICTTutorPro #HSC #Honours #MCQ #BoardExam"
         
         # Comment with answers
@@ -163,7 +163,7 @@ https://play.google.com/store/apps/details...
 ✅ সঠিক উত্তর ১ ঘণ্টা পরে কমেন্টে দেওয়া হবে!
 
 📱 ICT Tutor Pro App ডাউনলোড করুন:
-https://play.google.com/store/apps/details...
+https://play.google.com/store/apps/details?id=megaminds.icttutorpro
 
 #ICTQuizChallenge #MCQPractice #HSC #Honours #ICTTutorPro"""
         
