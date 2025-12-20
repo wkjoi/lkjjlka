@@ -33,7 +33,16 @@
             "tags": [
                 "exam"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027HUMD1",
+                    "postId": "post_3",
+                    "authorName": "KAZI JANNATUN NUR ",
+                    "content": "👍",
+                    "timestamp": "2025-12-20 22:28:00",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_1",
