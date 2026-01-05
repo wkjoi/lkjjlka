@@ -35,10 +35,10 @@
       "id": "notif_1",
       "imageUrl": null,
       "isRead": false,
-      "message": "Shibbir Hossen has created a new post",
+      "message": "Shibbir Hossen has updated a post",
       "postId": "post_1",
-      "timestamp": "2025-12-07 17:55:34",
-      "title": "New Post: check",
+      "timestamp": "2026-01-05 04:00:01",
+      "title": "Updated Post: Update App",
       "type": "post"
     }
   ]
