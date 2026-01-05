@@ -39,15 +39,15 @@
           "timestamp": "2025-12-20 22:30:59"
         }
       ],
-      "content": "new",
+      "content": "Test Exam starts on March 1.",
       "postId": "post_3",
       "imageUrl": null,
       "likes": 29,
       "tags": [
-        "exam"
+        "test_exam"
       ],
-      "timestamp": "2025-12-07 17:57:35",
-      "title": "new post"
+      "timestamp": "2026-01-05 04:01:31",
+      "title": "Test Exam"
     },
     {
       "teacherProfilePic": "default_url",
