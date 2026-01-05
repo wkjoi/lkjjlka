@@ -1,80 +1,87 @@
 {
-    "posts": [
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
         {
-            "postId": "post_4",
-            "title": "nobin boron 11th class",
-            "content": "Ekadosh srenir nobin boron 15th January hoite pare",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-04 04:56:46",
-            "teacherProfilePic": "default_url",
-            "likes": 68,
-            "tags": [
-                "outing"
-            ],
-            "comments": [
-                {
-                    "id": "1090302025OTHD87",
-                    "postId": "post_4",
-                    "authorName": "SHORNA AKTER",
-                    "content": "আসসালামু আলাইকুম ",
-                    "timestamp": "2025-12-15 21:57:53",
-                    "likes": 21
-                }
-            ]
-        },
-        {
-            "postId": "post_3",
-            "title": "new post",
-            "content": "new",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2025-12-07 17:57:35",
-            "teacherProfilePic": "default_url",
-            "likes": 29,
-            "tags": [
-                "exam"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_3",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "Sir eta ki update hoysi? ",
-                    "timestamp": "2025-12-20 22:30:59",
-                    "likes": 5
-                }
-            ]
-        },
-        {
-            "postId": "post_1",
-            "title": "check",
-            "content": "for checking",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2025-12-07 17:55:34",
-            "teacherProfilePic": "default_url",
-            "likes": 23,
-            "tags": [
-                "picnic"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027SCIM66",
-                    "postId": "post_1",
-                    "authorName": "MARIAM MUNTAHA ",
-                    "content": "👍",
-                    "timestamp": "2025-12-13 13:27:48",
-                    "likes": 4
-                },
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_1",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "👍",
-                    "timestamp": "2025-12-15 11:27:05",
-                    "likes": 0
-                }
-            ]
+          "authorAvatar": null,
+          "authorName": "SHORNA AKTER",
+          "content": "আসসালামু আলাইকুম ",
+          "id": "1090302025OTHD87",
+          "likes": 21,
+          "postId": "post_4",
+          "timestamp": "2025-12-15 21:57:53"
         }
-    ],
-    "status": "success",
-    "message": null
+      ],
+      "content": "Ekadosh srenir nobin boron 15th January hoite pare",
+      "postId": "post_4",
+      "imageUrl": null,
+      "likes": 68,
+      "tags": [
+        "outing"
+      ],
+      "timestamp": "2026-01-04 04:56:46",
+      "title": "nobin boron 11th class"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "Sir eta ki update hoysi? ",
+          "id": "1090302027HUMD1",
+          "likes": 5,
+          "postId": "post_3",
+          "timestamp": "2025-12-20 22:30:59"
+        }
+      ],
+      "content": "new",
+      "postId": "post_3",
+      "imageUrl": null,
+      "likes": 29,
+      "tags": [
+        "exam"
+      ],
+      "timestamp": "2025-12-07 17:57:35",
+      "title": "new post"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "MARIAM MUNTAHA ",
+          "content": "👍",
+          "id": "1090302027SCIM66",
+          "likes": 4,
+          "postId": "post_1",
+          "timestamp": "2025-12-13 13:27:48"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "👍",
+          "id": "1090302027HUMD1",
+          "likes": 0,
+          "postId": "post_1",
+          "timestamp": "2025-12-15 11:27:05"
+        }
+      ],
+      "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 23,
+      "tags": [
+        "App"
+      ],
+      "timestamp": "2026-01-05 04:00:01",
+      "title": "Update App"
+    }
+  ],
+  "status": "success"
 }
