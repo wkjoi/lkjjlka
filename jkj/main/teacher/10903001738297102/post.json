@@ -4,6 +4,20 @@
     {
       "teacherProfilePic": "default_url",
       "teacherName": "Shibbir Hossen",
+      "comments": [],
+      "content": "p",
+      "postId": "post_5",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "practical"
+      ],
+      "timestamp": "2026-01-05 04:02:15",
+      "title": "ICT Practical"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
       "comments": [
         {
           "authorAvatar": null,
