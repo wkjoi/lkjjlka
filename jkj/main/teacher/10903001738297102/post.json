@@ -1,110 +1,134 @@
 {
-    "posts": [
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [],
+      "content": "h",
+      "postId": "post_6",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "honors_assignments"
+      ],
+      "timestamp": "2026-01-06 04:48:57",
+      "title": "h"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
         {
-            "postId": "post_5",
-            "title": "ICT Practical",
-            "content": "টেস্ট পরীক্ষার সময় তোমাদের আইসিটি ব্যাবহারিক পরীক্ষা হবে। মূল পরীক্ষা ৭৫ + ব্যাবহারিক ২৫। মূল পরীক্ষা ফেব্রুয়ারির ১ তারিখ থেকে শুরু হবে। ১ তারিখের আগেই আমরা ৩ দিন ৩ বিভাগের ব্যাবহারিক পরীক্ষা নিয়ে নিব। N.B.- তোমাদের প্রেক্টিকেল খাতা লিখতে হবে ( অন্তত ৬ টি)। আমরা অন্য একটা পোস্ট এ খাতার বিষয়ে বলব।  ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:02:15",
-            "teacherProfilePic": "default_url",
-            "likes": 3,
-            "tags": [
-                "practical"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026BUSD119",
-                    "postId": "post_5",
-                    "authorName": "ARIA IBNAT ANIKA ",
-                    "content": "Thanks sir ",
-                    "timestamp": "2026-01-05 17:37:38",
-                    "likes": 6
-                },
-                {
-                    "id": "1090302025OTHD1071",
-                    "postId": "post_5",
-                    "authorName": "SADIA AKTER ANTORA",
-                    "content": "sir amader tw akhon assainment dise krte ",
-                    "timestamp": "2026-01-05 18:48:13",
-                    "likes": 0
-                }
-            ]
+          "authorAvatar": null,
+          "authorName": "ARIA IBNAT ANIKA ",
+          "content": "Thanks sir ",
+          "id": "1090302026BUSD119",
+          "likes": 6,
+          "postId": "post_5",
+          "timestamp": "2026-01-05 17:37:38"
         },
         {
-            "postId": "post_4",
-            "title": "নবীন বরন",
-            "content": "একাদশ শ্রেণির নবীন বরন  15th January হইতে পারে। ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-04 04:56:46",
-            "teacherProfilePic": "default_url",
-            "likes": 68,
-            "tags": [
-                "outing"
-            ],
-            "comments": [
-                {
-                    "id": "1090302025OTHD87",
-                    "postId": "post_4",
-                    "authorName": "SHORNA AKTER",
-                    "content": "আসসালামু আলাইকুম ",
-                    "timestamp": "2025-12-15 21:57:53",
-                    "likes": 23
-                }
-            ]
-        },
-        {
-            "postId": "post_3",
-            "title": "Test Exam",
-            "content": "Test Exam starts on March 1.",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:01:31",
-            "teacherProfilePic": "default_url",
-            "likes": 29,
-            "tags": [
-                "test_exam"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_3",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "Sir eta ki update hoysi? ",
-                    "timestamp": "2025-12-20 22:30:59",
-                    "likes": 5
-                }
-            ]
-        },
-        {
-            "postId": "post_1",
-            "title": "Update App",
-            "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:00:01",
-            "teacherProfilePic": "default_url",
-            "likes": 27,
-            "tags": [
-                "App"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027SCIM66",
-                    "postId": "post_1",
-                    "authorName": "MARIAM MUNTAHA ",
-                    "content": "👍",
-                    "timestamp": "2025-12-13 13:27:48",
-                    "likes": 10
-                },
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_1",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "👍",
-                    "timestamp": "2025-12-15 11:27:05",
-                    "likes": 0
-                }
-            ]
+          "authorAvatar": null,
+          "authorName": "SADIA AKTER ANTORA",
+          "content": "sir amader tw akhon assainment dise krte ",
+          "id": "1090302025OTHD1071",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-05 18:48:13"
         }
-    ],
-    "status": "success",
-    "message": null
+      ],
+      "content": "টেস্ট পরীক্ষার সময় তোমাদের আইসিটি ব্যাবহারিক পরীক্ষা হবে। মূল পরীক্ষা ৭৫ + ব্যাবহারিক ২৫। মূল পরীক্ষা ফেব্রুয়ারির ১ তারিখ থেকে শুরু হবে। ১ তারিখের আগেই আমরা ৩ দিন ৩ বিভাগের ব্যাবহারিক পরীক্ষা নিয়ে নিব। N.B.- তোমাদের প্রেক্টিকেল খাতা লিখতে হবে ( অন্তত ৬ টি)। আমরা অন্য একটা পোস্ট এ খাতার বিষয়ে বলব।  ",
+      "postId": "post_5",
+      "imageUrl": null,
+      "likes": 3,
+      "tags": [
+        "practical"
+      ],
+      "timestamp": "2026-01-05 04:02:15",
+      "title": "ICT Practical"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "SHORNA AKTER",
+          "content": "আসসালামু আলাইকুম ",
+          "id": "1090302025OTHD87",
+          "likes": 23,
+          "postId": "post_4",
+          "timestamp": "2025-12-15 21:57:53"
+        }
+      ],
+      "content": "একাদশ শ্রেণির নবীন বরন  15th January হইতে পারে। ",
+      "postId": "post_4",
+      "imageUrl": null,
+      "likes": 68,
+      "tags": [
+        "outing"
+      ],
+      "timestamp": "2026-01-04 04:56:46",
+      "title": "নবীন বরন"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "Sir eta ki update hoysi? ",
+          "id": "1090302027HUMD1",
+          "likes": 5,
+          "postId": "post_3",
+          "timestamp": "2025-12-20 22:30:59"
+        }
+      ],
+      "content": "Test Exam starts on March 1.",
+      "postId": "post_3",
+      "imageUrl": null,
+      "likes": 29,
+      "tags": [
+        "test_exam"
+      ],
+      "timestamp": "2026-01-05 04:01:31",
+      "title": "Test Exam"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "MARIAM MUNTAHA ",
+          "content": "👍",
+          "id": "1090302027SCIM66",
+          "likes": 10,
+          "postId": "post_1",
+          "timestamp": "2025-12-13 13:27:48"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "👍",
+          "id": "1090302027HUMD1",
+          "likes": 0,
+          "postId": "post_1",
+          "timestamp": "2025-12-15 11:27:05"
+        }
+      ],
+      "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 27,
+      "tags": [
+        "App"
+      ],
+      "timestamp": "2026-01-05 04:00:01",
+      "title": "Update App"
+    }
+  ],
+  "status": "success"
 }
