@@ -29,7 +29,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-01-05 04:02:15",
             "teacherProfilePic": "default_url",
-            "likes": 4,
+            "likes": 5,
             "tags": [
                 "practical"
             ],
@@ -56,7 +56,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "eita HSC er jonno",
                     "timestamp": "2026-01-06 05:22:12",
-                    "likes": 0,
+                    "likes": 1,
                     "authorAvatar": "default_url"
                 },
                 {
@@ -66,6 +66,14 @@
                     "content": "Thanks sir.🙂",
                     "timestamp": "2026-01-06 18:53:32",
                     "likes": 0
+                },
+                {
+                    "id": "1090302026348",
+                    "postId": "post_5",
+                    "authorName": "MITHILA AKTER",
+                    "content": "ok sir",
+                    "timestamp": "2026-01-06 22:30:42",
+                    "likes": 3
                 }
             ]
         },
