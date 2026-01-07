@@ -34,21 +34,6 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": "283534",
-          "chapter_name": "All Chapters",
-          "difficulty": "All",
-          "is_allowed": false,
-          "is_pin_protected": true,
-          "last_date": "2025-12-12",
-          "model_test_id": "63",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "Test 001",
-          "total_questions": 25,
-          "validity_time_minutes": 25
-        },
-        {
           "access_pin": null,
           "chapter_name": "All Chapters",
           "difficulty": "All",
