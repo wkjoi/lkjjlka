@@ -91,6 +91,16 @@
               "submitted_on": "2026-01-08 14:55",
               "time_taken_min": 11,
               "total_marks": 25
+            },
+            {
+              "accuracy_rate": 36,
+              "eiin": "109030",
+              "score": 9,
+              "student_id": "109030202560",
+              "student_name": "MOSA.AFRINAKTER",
+              "submitted_on": "2026-01-08 14:59",
+              "time_taken_min": 14,
+              "total_marks": 25
             }
           ],
           "performance_summary": null,
