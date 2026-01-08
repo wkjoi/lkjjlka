@@ -71,6 +71,16 @@
               "submitted_on": "2026-01-08 14:54",
               "time_taken_min": 10,
               "total_marks": 25
+            },
+            {
+              "accuracy_rate": 68,
+              "eiin": "109030",
+              "score": 17,
+              "student_id": "1090302026HUMD53",
+              "student_name": "DIPASMDIPA@GMAIL.COM",
+              "submitted_on": "2026-01-08 14:54",
+              "time_taken_min": 12,
+              "total_marks": 25
             }
           ],
           "performance_summary": null,
