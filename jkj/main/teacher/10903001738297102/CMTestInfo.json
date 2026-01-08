@@ -81,6 +81,16 @@
               "submitted_on": "2026-01-08 14:54",
               "time_taken_min": 12,
               "total_marks": 25
+            },
+            {
+              "accuracy_rate": 60,
+              "eiin": "109030",
+              "score": 15,
+              "student_id": "1090302026BUSD234",
+              "student_name": "FARIASULTANARITIKA ",
+              "submitted_on": "2026-01-08 14:55",
+              "time_taken_min": 11,
+              "total_marks": 25
             }
           ],
           "performance_summary": null,
