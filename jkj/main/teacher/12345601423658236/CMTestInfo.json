@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "college_name": "Mohila college ",
+      "created_model_tests": [],
+      "eiin": "123456",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01423658236",
+      "name": "jarin",
+      "teacher_id": "12345601423658236"
+    }
+  ]
+}
