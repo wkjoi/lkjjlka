@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "college_name": "kaya golahat school and college ",
+      "created_model_tests": [],
+      "eiin": "125250",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01402046833",
+      "name": "sazu",
+      "teacher_id": "12525001402046833"
+    }
+  ]
+}
