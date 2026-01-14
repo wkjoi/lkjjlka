@@ -204,7 +204,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-01-05 04:01:31",
             "teacherProfilePic": "default_url",
-            "likes": 34,
+            "likes": 35,
             "tags": [
                 "test_exam"
             ],
@@ -231,7 +231,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "yes Feb 1",
                     "timestamp": "2026-01-06 16:33:49",
-                    "likes": 2,
+                    "likes": 3,
                     "authorAvatar": "default_url"
                 }
             ]
