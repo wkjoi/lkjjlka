@@ -1,14 +1,28 @@
 {
   "teachers": [
     {
-      "college_name": "kaya golahat school and college ",
-      "created_model_tests": [],
-      "eiin": "125250",
-      "is_notification_feature_enabled": false,
-      "is_post_feature_enabled": false,
-      "mobileNo": "01402046833",
+      "teacher_id": 12525001402046833,
       "name": "sazu",
-      "teacher_id": "12525001402046833"
+      "college_name": "kaya golahat school and college ",
+      "mobileNo": "01402046833",
+      "eiin": "125250",
+      "is_post_feature_enabled": false,
+      "is_notification_feature_enabled": false,
+      "created_model_tests": [
+        {
+          "teacher_id": "12525001402046833",
+          "test_name": "class test 3.2 logic gate",
+          "chapter_name": "3.2",
+          "total_questions": 25,
+          "difficulty": "All",
+          "last_date": "2026-01-21",
+          "validity_time_minutes": 25,
+          "is_allowed": false,
+          "selected_student_ids": [],
+          "model_test_id": "69",
+          "participants": []
+        }
+      ]
     }
   ]
 }
