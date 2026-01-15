@@ -6,8 +6,8 @@
 
       ],
       "eiin" : "109030",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
+      "is_notification_feature_enabled" : true,
+      "is_post_feature_enabled" : true,
       "mobileNo" : "01738297102",
       "name" : "Md. Shibbir Hossen",
       "teacher_id" : "10903001738297102"
