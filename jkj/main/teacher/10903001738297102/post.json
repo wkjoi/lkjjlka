@@ -2,6 +2,23 @@
   "posts" : [
     {
       "comments" : [
+
+      ],
+      "content" : "This is a test for iOS. I am building an iOS app for it. ",
+      "eiin" : "109030",
+      "likes" : 0,
+      "postId" : "post_44992166-8D5C-4971-9CA9-2AD6A0ED6C82",
+      "tags" : [
+
+      ],
+      "teacherId" : "10903001738297102",
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-01-17 22:22:03",
+      "title" : "This is a test from iphon"
+    },
+    {
+      "comments" : [
         {
           "authorName" : "DILSHAD SULTANA RAISA",
           "content" : "okk Sir ",
@@ -60,11 +77,13 @@
         }
       ],
       "content" : "(১) ICT কী? ICT উপকারীতা ও অপকারিতা ব্যাখ্যা কর।\n\n(২) শিক্ষা ক্ষেত্রে ও চাকরি ক্ষেত্রে আইসিটির প্রয়োজনীয়তা লেখ।\n\n(৩) ডাটা এবং ইনফরমেশনের পার্থক্য লিখ।\n\n(৪) কম্পিউটারের প্রকারভেদ (মিনি কম্পিউটার, মাইক্রো কম্পিউটার, সুপার কম্পিউটার)\n\n(৫) একটি কম্পিউটারের প্রধান অংশ (Component) ব্যাখ্যা কর— (i) Input \/ Output (ii) Memory (iii) CPU \n\n(৬) Hardware কাকে বলে?\n\n(৭) Software কাকে বলে? বিভিন্ন ধরনের সফটওয়্যার ব্যাখ্যা কর ( ১। সিস্টেম ২। আপ্লিকেশন) \n\n(৮) OCR-এর পূর্ণরূপ কী?\n\n(৯) RAM এবং ROM-এর পার্থক্য লিখ।\n\n(১০) Primary Memory vs Secondary Memory পার্থক্য লিখ? উদাহরণসহ।\n\n(১১) অপারেটিং সিস্টেম কী? অপারেটিং সিস্টেমের কাজ কী?\n\nনোট- জমাদানের তারিখ ( ১৩\/০১\/২০২৬ ) ",
+      "eiin" : "",
       "likes" : 11,
       "postId" : "post_6",
       "tags" : [
         "honors_assignments"
       ],
+      "teacherId" : "",
       "teacherName" : "Shibbir Hossen",
       "teacherProfilePic" : "default_url",
       "timestamp" : "2026-01-06 04:48:57",
@@ -162,11 +181,13 @@
         }
       ],
       "content" : "টেস্ট পরীক্ষার সময় তোমাদের আইসিটি ব্যাবহারিক পরীক্ষা হবে। মূল পরীক্ষা ৭৫ + ব্যাবহারিক ২৫। মূল পরীক্ষা ফেব্রুয়ারির ১ তারিখ থেকে শুরু হবে। ১ তারিখের আগেই আমরা ৩ দিন ৩ বিভাগের ব্যাবহারিক পরীক্ষা নিয়ে নিব। N.B.- তোমাদের প্রেক্টিকেল খাতা লিখতে হবে ( অন্তত ৬ টি)। আমরা অন্য একটা পোস্ট এ খাতার বিষয়ে বলব।  ",
+      "eiin" : "",
       "likes" : 13,
       "postId" : "post_5",
       "tags" : [
         "practical"
       ],
+      "teacherId" : "",
       "teacherName" : "Shibbir Hossen",
       "teacherProfilePic" : "default_url",
       "timestamp" : "2026-01-05 04:02:15",
@@ -200,11 +221,13 @@
         }
       ],
       "content" : "একাদশ শ্রেণির নবীন বরন  15th January হইতে পারে। ",
+      "eiin" : "",
       "likes" : 94,
       "postId" : "post_4",
       "tags" : [
         "outing"
       ],
+      "teacherId" : "",
       "teacherName" : "Shibbir Hossen",
       "teacherProfilePic" : "default_url",
       "timestamp" : "2026-01-04 04:56:46",
@@ -294,11 +317,13 @@
         }
       ],
       "content" : "Test Exam may starts on 25, Jan.",
+      "eiin" : "",
       "likes" : 202,
       "postId" : "post_3",
       "tags" : [
         "test_exam"
       ],
+      "teacherId" : "",
       "teacherName" : "Shibbir Hossen",
       "teacherProfilePic" : "default_url",
       "timestamp" : "2026-01-15 07:40:15",
@@ -324,11 +349,13 @@
         }
       ],
       "content" : "A new HTML editor is included in our app. To get the latest update, please update our app.",
+      "eiin" : "",
       "likes" : 35,
       "postId" : "post_1",
       "tags" : [
         "App"
       ],
+      "teacherId" : "",
       "teacherName" : "Shibbir Hossen",
       "teacherProfilePic" : "default_url",
       "timestamp" : "2026-01-05 04:00:01",
