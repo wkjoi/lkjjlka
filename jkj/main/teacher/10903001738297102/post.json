@@ -24,7 +24,16 @@
             "tags": [
                 "Practical"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302026SCIM75",
+                    "postId": "post_7",
+                    "authorName": "JANNATUL FERDOUS",
+                    "content": "kobeee?",
+                    "timestamp": "2026-01-18 20:32:08",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_6",
