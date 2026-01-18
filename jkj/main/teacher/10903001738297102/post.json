@@ -1,413 +1,462 @@
 {
-    "posts": [
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Md. Shibbir Hossen",
+      "comments": [
         {
-            "postId": "post_8",
-            "title": "ICT Practical ( TEST EXAM-2026)",
-            "content": "তোমাদের আগেই আমি জানিয়েছিলাম যে টেস্ট পরীক্ষার সময় একটি Practical পরীক্ষা দিতে হবে। যাদের যেই বিষয়ের ব্যাবহারিক আছে তাদের ওই বিষয়গুলা দিতে হবে। \n আমাদের আইসিটির মানবণ্টন (২৫ mcq + ২৫ cq + ২৫ ব্যাবহারিক) \n\n ব্যাবহারিক পরীক্ষায় ২৫ নম্বর। এর জন্য তোমাদের সবাইকে দুটি কাজ করতে হবে। (১) ব্যাবহারিক পরীক্ষায়  অংশগ্রহণ করতে হবে (২) একটা ব্যাবহারিক লিখে দেখাতে হবে (আপাতত একটা, এই একই খাতায় আরও লিখতে হবে। আমরা বাকিগুলা পরে দিয়ে দিব) । ব্যাবহারিক বই এ কি লিখবে তার লিঙ্ক নিচে যুক্ত আছে। \n\n ব্যাবহারিক পরীক্ষার সময় ও তারিখ \n\n ১। ব্যবসায় শিক্ষা - ২২\/০১\/২০২৬- বৃহস্পতিবার- দুপুর ১২ঃ৩০ \n২।মানবিক - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১২:০০ \n বিজ্ঞান - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১:০০ \n\n\n খাতা জমার নির্দেশনাঃ যে কোন ব্যাবহারিক খাতায় লিখলেই হবে। জমাদানের সময়ঃ - আগামী ২১\/০১\/২৬ থেকে ১০\/০২\/২৬। জমা দিয়ে সাইন করে যাবে নিশ্চয়ই। \n\n\n  বিঃ দ্রঃ ব্যাবহারিক পরীক্ষা না দিলে বা খাতা না দেখালে, মূল পরীক্ষায় অংশগ্রহণ করলেও কোন নম্বর যুক্ত হবে না। পরীক্ষার তারিখ ও সময় যে কোন সময় পরিবর্তন হইতে পারে। \nlink - https:\/\/shorturl.at\/IfsX5",
-            "teacherName": "Md. Shibbir Hossen",
-            "timestamp": "2026-01-18 14:11:07",
-            "teacherProfilePic": "default_url",
-            "likes": 5,
-            "tags": [
-                "Practical"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026HUMM284",
-                    "postId": "post_8",
-                    "authorName": "KHADIZA AKHTER OTHOI ",
-                    "content": "Sir link atw dhuka jayna ",
-                    "timestamp": "2026-01-18 20:59:25",
-                    "likes": 4
-                },
-                {
-                    "id": "1090302026HUMM230",
-                    "postId": "post_8",
-                    "authorName": "NUZAT TABASSUM KHUSHI",
-                    "content": "Sir link e dhuka jay na",
-                    "timestamp": "2026-01-18 21:10:49",
-                    "likes": 1
-                }
-            ]
+          "authorAvatar": null,
+          "authorName": "KHADIZA AKHTER OTHOI ",
+          "content": "Sir link atw dhuka jayna ",
+          "id": "1090302026HUMM284",
+          "likes": 4,
+          "postId": "post_8",
+          "timestamp": "2026-01-18 20:59:25"
         },
         {
-            "postId": "post_7",
-            "title": "ICT Practical ( TEST EXAM-2026)",
-            "content": "Notice.",
-            "teacherName": "Md. Shibbir Hossen",
-            "timestamp": "2026-01-18 14:10:53",
-            "teacherProfilePic": "default_url",
-            "likes": 5,
-            "tags": [
-                "Practical"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026SCIM75",
-                    "postId": "post_7",
-                    "authorName": "JANNATUL FERDOUS",
-                    "content": "kobeee?",
-                    "timestamp": "2026-01-18 20:32:08",
-                    "likes": 0
-                }
-            ]
+          "authorAvatar": null,
+          "authorName": "NUZAT TABASSUM KHUSHI",
+          "content": "Sir link e dhuka jay na",
+          "id": "1090302026HUMM230",
+          "likes": 1,
+          "postId": "post_8",
+          "timestamp": "2026-01-18 21:10:49"
         },
         {
-            "postId": "post_6",
-            "title": "অনার্স ১ম বর্ষ, Assignment- 1",
-            "content": "(১) ICT কী? ICT উপকারীতা ও অপকারিতা ব্যাখ্যা কর।\n\n(২) শিক্ষা ক্ষেত্রে ও চাকরি ক্ষেত্রে আইসিটির প্রয়োজনীয়তা লেখ।\n\n(৩) ডাটা এবং ইনফরমেশনের পার্থক্য লিখ।\n\n(৪) কম্পিউটারের প্রকারভেদ (মিনি কম্পিউটার, মাইক্রো কম্পিউটার, সুপার কম্পিউটার)\n\n(৫) একটি কম্পিউটারের প্রধান অংশ (Component) ব্যাখ্যা কর— (i) Input \/ Output (ii) Memory (iii) CPU \n\n(৬) Hardware কাকে বলে?\n\n(৭) Software কাকে বলে? বিভিন্ন ধরনের সফটওয়্যার ব্যাখ্যা কর ( ১। সিস্টেম ২। আপ্লিকেশন) \n\n(৮) OCR-এর পূর্ণরূপ কী?\n\n(৯) RAM এবং ROM-এর পার্থক্য লিখ।\n\n(১০) Primary Memory vs Secondary Memory পার্থক্য লিখ? উদাহরণসহ।\n\n(১১) অপারেটিং সিস্টেম কী? অপারেটিং সিস্টেমের কাজ কী?\n\nনোট- জমাদানের তারিখ ( ১৩\/০১\/২০২৬ ) ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-06 04:48:57",
-            "teacherProfilePic": "default_url",
-            "likes": 11,
-            "tags": [
-                "honors_assignments"
-            ],
-            "comments": [
-                {
-                    "id": "1090302025OTHM2004",
-                    "postId": "post_6",
-                    "authorName": "DILSHAD SULTANA RAISA",
-                    "content": "okk Sir ",
-                    "timestamp": "2026-01-06 15:17:59",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1767717316362",
-                    "postId": "post_6",
-                    "authorName": "Shibbir Hossen",
-                    "content": "eita kintu 3 dept. er jonnoi. ( bangla, eng, political science)",
-                    "timestamp": "2026-01-06 16:35:16",
-                    "likes": 11,
-                    "authorAvatar": "default_url"
-                },
-                {
-                    "id": "1090302028OTHD57",
-                    "postId": "post_6",
-                    "authorName": "TAHMINA AKTER",
-                    "content": "Thik ache sir.but joma deyar last date kobe",
-                    "timestamp": "2026-01-06 23:39:48",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302025OTHD1071",
-                    "postId": "post_6",
-                    "authorName": "SADIA AKTER ANTORA",
-                    "content": "sir amra ICT kon Book kinbo?? ",
-                    "timestamp": "2026-01-08 15:59:58",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302025HUMD2009",
-                    "postId": "post_6",
-                    "authorName": "FARIHA KHANAM",
-                    "content": "ok sir",
-                    "timestamp": "2026-01-09 10:32:01",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1768142773601",
-                    "postId": "post_6",
-                    "authorName": "Shibbir Hossen",
-                    "content": "milestone prokashoni",
-                    "timestamp": "2026-01-11 14:46:13",
-                    "likes": 3,
-                    "authorAvatar": "default_url"
-                },
-                {
-                    "id": "1090302025SCID37",
-                    "postId": "post_6",
-                    "authorName": "TASFIA TAJRIAN HRIDITA ",
-                    "content": "আগামীকাল কি আমাদের ক্লাস হবে?",
-                    "timestamp": "2026-01-12 22:28:38",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_5",
-            "title": "ICT Practical",
-            "content": "টেস্ট পরীক্ষার সময় তোমাদের আইসিটি ব্যাবহারিক পরীক্ষা হবে। মূল পরীক্ষা ৭৫ + ব্যাবহারিক ২৫। মূল পরীক্ষা ফেব্রুয়ারির ১ তারিখ থেকে শুরু হবে। ১ তারিখের আগেই আমরা ৩ দিন ৩ বিভাগের ব্যাবহারিক পরীক্ষা নিয়ে নিব। N.B.- তোমাদের প্রেক্টিকেল খাতা লিখতে হবে ( অন্তত ৬ টি)। আমরা অন্য একটা পোস্ট এ খাতার বিষয়ে বলব।  ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:02:15",
-            "teacherProfilePic": "default_url",
-            "likes": 14,
-            "tags": [
-                "practical"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026BUSD119",
-                    "postId": "post_5",
-                    "authorName": "ARIA IBNAT ANIKA ",
-                    "content": "Thanks sir ",
-                    "timestamp": "2026-01-05 17:37:38",
-                    "likes": 8
-                },
-                {
-                    "id": "1090302025OTHD1071",
-                    "postId": "post_5",
-                    "authorName": "SADIA AKTER ANTORA",
-                    "content": "sir amader tw akhon assainment dise krte ",
-                    "timestamp": "2026-01-05 18:48:13",
-                    "likes": 2
-                },
-                {
-                    "id": "comment_1767676932245",
-                    "postId": "post_5",
-                    "authorName": "Shibbir Hossen",
-                    "content": "eita HSC er jonno",
-                    "timestamp": "2026-01-06 05:22:12",
-                    "likes": 2,
-                    "authorAvatar": "default_url"
-                },
-                {
-                    "id": "1090302026123",
-                    "postId": "post_5",
-                    "authorName": "JANNATUL FERDOUS CHOYA",
-                    "content": "Thanks sir.🙂",
-                    "timestamp": "2026-01-06 18:53:32",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026348",
-                    "postId": "post_5",
-                    "authorName": "MITHILA AKTER",
-                    "content": "ok sir",
-                    "timestamp": "2026-01-06 22:30:42",
-                    "likes": 3
-                },
-                {
-                    "id": "109030202660",
-                    "postId": "post_5",
-                    "authorName": "SADIYASULTANAMADOBI",
-                    "content": "Thanks sir.",
-                    "timestamp": "2026-01-11 17:45:10",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSM337",
-                    "postId": "post_5",
-                    "authorName": "ARNIKA AHMED BRISTY",
-                    "content": "Okay sir",
-                    "timestamp": "2026-01-11 19:00:22",
-                    "likes": 1
-                },
-                {
-                    "id": "1090302026HUMD208",
-                    "postId": "post_5",
-                    "authorName": "AYESHA AKTER ETI",
-                    "content": "ok sir",
-                    "timestamp": "2026-01-12 09:10:33",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD247",
-                    "postId": "post_5",
-                    "authorName": "MAHIA",
-                    "content": "okay sir",
-                    "timestamp": "2026-01-12 09:51:18",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD322",
-                    "postId": "post_5",
-                    "authorName": "MST. LIMA ",
-                    "content": "sir prectical ki kisu korte disen?",
-                    "timestamp": "2026-01-16 16:57:57",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCID302",
-                    "postId": "post_5",
-                    "authorName": "TUHIDA NASRIN ",
-                    "content": "okay sir",
-                    "timestamp": "2026-01-17 16:45:37",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCID290",
-                    "postId": "post_5",
-                    "authorName": "SAMIYA SULTANA NILA",
-                    "content": "👍",
-                    "timestamp": "2026-01-18 18:38:07",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCID211",
-                    "postId": "post_5",
-                    "authorName": "SABIHA AKTER ",
-                    "content": "ok sir",
-                    "timestamp": "2026-01-18 18:45:17",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_4",
-            "title": "নবীন বরন",
-            "content": "একাদশ শ্রেণির নবীন বরন  15th January হইতে পারে। ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-04 04:56:46",
-            "teacherProfilePic": "default_url",
-            "likes": 94,
-            "tags": [
-                "outing"
-            ],
-            "comments": [
-                {
-                    "id": "1090302025OTHD87",
-                    "postId": "post_4",
-                    "authorName": "SHORNA AKTER",
-                    "content": "আসসালামু আলাইকুম ",
-                    "timestamp": "2025-12-15 21:57:53",
-                    "likes": 23
-                },
-                {
-                    "id": "1090302026HUMM118",
-                    "postId": "post_4",
-                    "authorName": "ONA JAHAN",
-                    "content": "sir porshu ki cultural hbe?",
-                    "timestamp": "2026-01-13 12:26:37",
-                    "likes": 13
-                },
-                {
-                    "id": "1090302026SCID42",
-                    "postId": "post_4",
-                    "authorName": "SONIA SULTANA URMI",
-                    "content": "sir klke ki progamme cancel ??",
-                    "timestamp": "2026-01-14 12:30:43",
-                    "likes": 7
-                }
-            ]
-        },
-        {
-            "postId": "post_3",
-            "title": "Test Exam",
-            "content": "Test Exam may starts on 25, Jan.",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-15 07:40:15",
-            "teacherProfilePic": "default_url",
-            "likes": 210,
-            "tags": [
-                "test_exam"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_3",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "Sir eta ki update hoysi? ",
-                    "timestamp": "2025-12-20 22:30:59",
-                    "likes": 9
-                },
-                {
-                    "id": "1090302026BUSD259",
-                    "postId": "post_3",
-                    "authorName": "TAHMINA AKTER",
-                    "content": "Sir February te na?",
-                    "timestamp": "2026-01-06 22:20:13",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1767717229762",
-                    "postId": "post_3",
-                    "authorName": "Shibbir Hossen",
-                    "content": "yes Feb 1",
-                    "timestamp": "2026-01-06 16:33:49",
-                    "likes": 3,
-                    "authorAvatar": "default_url"
-                },
-                {
-                    "id": "1090302026BUSM337",
-                    "postId": "post_3",
-                    "authorName": "ARNIKA AHMED BRISTY",
-                    "content": "sir ekhn naki Abr bolse 25th January??",
-                    "timestamp": "2026-01-14 13:38:45",
-                    "likes": 3
-                },
-                {
-                    "id": "comment_1768462886525",
-                    "postId": "post_3",
-                    "authorName": "Shibbir Hossen",
-                    "content": "yes",
-                    "timestamp": "2026-01-15 07:41:26",
-                    "likes": 0,
-                    "authorAvatar": "default_url"
-                },
-                {
-                    "id": "1090302026HUMM383",
-                    "postId": "post_3",
-                    "authorName": "LAMIA KHAN JASIN ",
-                    "content": "sir 25 tarikh e final tahola text exm ar jonno",
-                    "timestamp": "2026-01-16 08:06:57",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD322",
-                    "postId": "post_3",
-                    "authorName": "MST. LIMA ",
-                    "content": "sir prectical ki likte disen?",
-                    "timestamp": "2026-01-16 16:58:43",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSD379",
-                    "postId": "post_3",
-                    "authorName": "DIL AFROZ KUMKUM",
-                    "content": " sir exam er rutine diche??? ",
-                    "timestamp": "2026-01-17 14:37:43",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCID302",
-                    "postId": "post_3",
-                    "authorName": "TUHIDA NASRIN ",
-                    "content": "okay sir thank you ",
-                    "timestamp": "2026-01-17 16:46:10",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSD291",
-                    "postId": "post_3",
-                    "authorName": "LAMIYA SULTANA",
-                    "content": "sir February 1 tarikh theke na",
-                    "timestamp": "2026-01-18 10:06:51",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_1",
-            "title": "Update App",
-            "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:00:01",
-            "teacherProfilePic": "default_url",
-            "likes": 35,
-            "tags": [
-                "App"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027SCIM66",
-                    "postId": "post_1",
-                    "authorName": "MARIAM MUNTAHA ",
-                    "content": "👍",
-                    "timestamp": "2025-12-13 13:27:48",
-                    "likes": 10
-                },
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_1",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "👍",
-                    "timestamp": "2025-12-15 11:27:05",
-                    "likes": 12
-                }
-            ]
+          "authorAvatar": "default_url",
+          "authorName": "Md. Shibbir Hossen",
+          "content": "kivabe chesta korcho?",
+          "id": "comment_1768750729962",
+          "likes": 0,
+          "postId": "post_8",
+          "timestamp": "2026-01-18 15:38:49"
         }
-    ],
-    "status": "success",
-    "message": null
+      ],
+      "content": "তোমাদের আগেই আমি জানিয়েছিলাম যে টেস্ট পরীক্ষার সময় একটি Practical পরীক্ষা দিতে হবে। যাদের যেই বিষয়ের ব্যাবহারিক আছে তাদের ওই বিষয়গুলা দিতে হবে। \n আমাদের আইসিটির মানবণ্টন (২৫ mcq + ২৫ cq + ২৫ ব্যাবহারিক) \n\n ব্যাবহারিক পরীক্ষায় ২৫ নম্বর। এর জন্য তোমাদের সবাইকে দুটি কাজ করতে হবে। (১) ব্যাবহারিক পরীক্ষায়  অংশগ্রহণ করতে হবে (২) একটা ব্যাবহারিক লিখে দেখাতে হবে (আপাতত একটা, এই একই খাতায় আরও লিখতে হবে। আমরা বাকিগুলা পরে দিয়ে দিব) । ব্যাবহারিক বই এ কি লিখবে তার লিঙ্ক নিচে যুক্ত আছে। \n\n ব্যাবহারিক পরীক্ষার সময় ও তারিখ \n\n ১। ব্যবসায় শিক্ষা - ২২/০১/২০২৬- বৃহস্পতিবার- দুপুর ১২ঃ৩০ \n২।মানবিক - ০৮/০২/২০২৬ - রবিবার - দুপুর ১২:০০ \n বিজ্ঞান - ০৮/০২/২০২৬ - রবিবার - দুপুর ১:০০ \n\n\n খাতা জমার নির্দেশনাঃ যে কোন ব্যাবহারিক খাতায় লিখলেই হবে। জমাদানের সময়ঃ - আগামী ২১/০১/২৬ থেকে ১০/০২/২৬। জমা দিয়ে সাইন করে যাবে নিশ্চয়ই। \n\n\n  বিঃ দ্রঃ ব্যাবহারিক পরীক্ষা না দিলে বা খাতা না দেখালে, মূল পরীক্ষায় অংশগ্রহণ করলেও কোন নম্বর যুক্ত হবে না। পরীক্ষার তারিখ ও সময় যে কোন সময় পরিবর্তন হইতে পারে। \nlink - https://shorturl.at/IfsX5",
+      "postId": "post_8",
+      "imageUrl": null,
+      "likes": 5,
+      "tags": [
+        "Practical"
+      ],
+      "timestamp": "2026-01-18 14:11:07",
+      "title": "ICT Practical ( TEST EXAM-2026)"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Md. Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "JANNATUL FERDOUS",
+          "content": "kobeee?",
+          "id": "1090302026SCIM75",
+          "likes": 0,
+          "postId": "post_7",
+          "timestamp": "2026-01-18 20:32:08"
+        }
+      ],
+      "content": "Notice.",
+      "postId": "post_7",
+      "imageUrl": null,
+      "likes": 5,
+      "tags": [
+        "Practical"
+      ],
+      "timestamp": "2026-01-18 14:10:53",
+      "title": "ICT Practical ( TEST EXAM-2026)"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "DILSHAD SULTANA RAISA",
+          "content": "okk Sir ",
+          "id": "1090302025OTHM2004",
+          "likes": 0,
+          "postId": "post_6",
+          "timestamp": "2026-01-06 15:17:59"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Shibbir Hossen",
+          "content": "eita kintu 3 dept. er jonnoi. ( bangla, eng, political science)",
+          "id": "comment_1767717316362",
+          "likes": 11,
+          "postId": "post_6",
+          "timestamp": "2026-01-06 16:35:16"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "TAHMINA AKTER",
+          "content": "Thik ache sir.but joma deyar last date kobe",
+          "id": "1090302028OTHD57",
+          "likes": 0,
+          "postId": "post_6",
+          "timestamp": "2026-01-06 23:39:48"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SADIA AKTER ANTORA",
+          "content": "sir amra ICT kon Book kinbo?? ",
+          "id": "1090302025OTHD1071",
+          "likes": 0,
+          "postId": "post_6",
+          "timestamp": "2026-01-08 15:59:58"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "FARIHA KHANAM",
+          "content": "ok sir",
+          "id": "1090302025HUMD2009",
+          "likes": 0,
+          "postId": "post_6",
+          "timestamp": "2026-01-09 10:32:01"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Shibbir Hossen",
+          "content": "milestone prokashoni",
+          "id": "comment_1768142773601",
+          "likes": 3,
+          "postId": "post_6",
+          "timestamp": "2026-01-11 14:46:13"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "TASFIA TAJRIAN HRIDITA ",
+          "content": "আগামীকাল কি আমাদের ক্লাস হবে?",
+          "id": "1090302025SCID37",
+          "likes": 0,
+          "postId": "post_6",
+          "timestamp": "2026-01-12 22:28:38"
+        }
+      ],
+      "content": "(১) ICT কী? ICT উপকারীতা ও অপকারিতা ব্যাখ্যা কর।\n\n(২) শিক্ষা ক্ষেত্রে ও চাকরি ক্ষেত্রে আইসিটির প্রয়োজনীয়তা লেখ।\n\n(৩) ডাটা এবং ইনফরমেশনের পার্থক্য লিখ।\n\n(৪) কম্পিউটারের প্রকারভেদ (মিনি কম্পিউটার, মাইক্রো কম্পিউটার, সুপার কম্পিউটার)\n\n(৫) একটি কম্পিউটারের প্রধান অংশ (Component) ব্যাখ্যা কর— (i) Input / Output (ii) Memory (iii) CPU \n\n(৬) Hardware কাকে বলে?\n\n(৭) Software কাকে বলে? বিভিন্ন ধরনের সফটওয়্যার ব্যাখ্যা কর ( ১। সিস্টেম ২। আপ্লিকেশন) \n\n(৮) OCR-এর পূর্ণরূপ কী?\n\n(৯) RAM এবং ROM-এর পার্থক্য লিখ।\n\n(১০) Primary Memory vs Secondary Memory পার্থক্য লিখ? উদাহরণসহ।\n\n(১১) অপারেটিং সিস্টেম কী? অপারেটিং সিস্টেমের কাজ কী?\n\nনোট- জমাদানের তারিখ ( ১৩/০১/২০২৬ ) ",
+      "postId": "post_6",
+      "imageUrl": null,
+      "likes": 11,
+      "tags": [
+        "honors_assignments"
+      ],
+      "timestamp": "2026-01-06 04:48:57",
+      "title": "অনার্স ১ম বর্ষ, Assignment- 1"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "ARIA IBNAT ANIKA ",
+          "content": "Thanks sir ",
+          "id": "1090302026BUSD119",
+          "likes": 8,
+          "postId": "post_5",
+          "timestamp": "2026-01-05 17:37:38"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SADIA AKTER ANTORA",
+          "content": "sir amader tw akhon assainment dise krte ",
+          "id": "1090302025OTHD1071",
+          "likes": 2,
+          "postId": "post_5",
+          "timestamp": "2026-01-05 18:48:13"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Shibbir Hossen",
+          "content": "eita HSC er jonno",
+          "id": "comment_1767676932245",
+          "likes": 2,
+          "postId": "post_5",
+          "timestamp": "2026-01-06 05:22:12"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "JANNATUL FERDOUS CHOYA",
+          "content": "Thanks sir.🙂",
+          "id": "1090302026123",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-06 18:53:32"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "MITHILA AKTER",
+          "content": "ok sir",
+          "id": "1090302026348",
+          "likes": 3,
+          "postId": "post_5",
+          "timestamp": "2026-01-06 22:30:42"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SADIYASULTANAMADOBI",
+          "content": "Thanks sir.",
+          "id": "109030202660",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-11 17:45:10"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "ARNIKA AHMED BRISTY",
+          "content": "Okay sir",
+          "id": "1090302026BUSM337",
+          "likes": 1,
+          "postId": "post_5",
+          "timestamp": "2026-01-11 19:00:22"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "AYESHA AKTER ETI",
+          "content": "ok sir",
+          "id": "1090302026HUMD208",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-12 09:10:33"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "MAHIA",
+          "content": "okay sir",
+          "id": "1090302026HUMD247",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-12 09:51:18"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "MST. LIMA ",
+          "content": "sir prectical ki kisu korte disen?",
+          "id": "1090302026HUMD322",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-16 16:57:57"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "TUHIDA NASRIN ",
+          "content": "okay sir",
+          "id": "1090302026SCID302",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-17 16:45:37"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SAMIYA SULTANA NILA",
+          "content": "👍",
+          "id": "1090302026SCID290",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-18 18:38:07"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SABIHA AKTER ",
+          "content": "ok sir",
+          "id": "1090302026SCID211",
+          "likes": 0,
+          "postId": "post_5",
+          "timestamp": "2026-01-18 18:45:17"
+        }
+      ],
+      "content": "টেস্ট পরীক্ষার সময় তোমাদের আইসিটি ব্যাবহারিক পরীক্ষা হবে। মূল পরীক্ষা ৭৫ + ব্যাবহারিক ২৫। মূল পরীক্ষা ফেব্রুয়ারির ১ তারিখ থেকে শুরু হবে। ১ তারিখের আগেই আমরা ৩ দিন ৩ বিভাগের ব্যাবহারিক পরীক্ষা নিয়ে নিব। N.B.- তোমাদের প্রেক্টিকেল খাতা লিখতে হবে ( অন্তত ৬ টি)। আমরা অন্য একটা পোস্ট এ খাতার বিষয়ে বলব।  ",
+      "postId": "post_5",
+      "imageUrl": null,
+      "likes": 14,
+      "tags": [
+        "practical"
+      ],
+      "timestamp": "2026-01-05 04:02:15",
+      "title": "ICT Practical"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "SHORNA AKTER",
+          "content": "আসসালামু আলাইকুম ",
+          "id": "1090302025OTHD87",
+          "likes": 23,
+          "postId": "post_4",
+          "timestamp": "2025-12-15 21:57:53"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "ONA JAHAN",
+          "content": "sir porshu ki cultural hbe?",
+          "id": "1090302026HUMM118",
+          "likes": 13,
+          "postId": "post_4",
+          "timestamp": "2026-01-13 12:26:37"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "SONIA SULTANA URMI",
+          "content": "sir klke ki progamme cancel ??",
+          "id": "1090302026SCID42",
+          "likes": 7,
+          "postId": "post_4",
+          "timestamp": "2026-01-14 12:30:43"
+        }
+      ],
+      "content": "একাদশ শ্রেণির নবীন বরন  15th January হইতে পারে। ",
+      "postId": "post_4",
+      "imageUrl": null,
+      "likes": 94,
+      "tags": [
+        "outing"
+      ],
+      "timestamp": "2026-01-04 04:56:46",
+      "title": "নবীন বরন"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "Sir eta ki update hoysi? ",
+          "id": "1090302027HUMD1",
+          "likes": 9,
+          "postId": "post_3",
+          "timestamp": "2025-12-20 22:30:59"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "TAHMINA AKTER",
+          "content": "Sir February te na?",
+          "id": "1090302026BUSD259",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-06 22:20:13"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Shibbir Hossen",
+          "content": "yes Feb 1",
+          "id": "comment_1767717229762",
+          "likes": 3,
+          "postId": "post_3",
+          "timestamp": "2026-01-06 16:33:49"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "ARNIKA AHMED BRISTY",
+          "content": "sir ekhn naki Abr bolse 25th January??",
+          "id": "1090302026BUSM337",
+          "likes": 3,
+          "postId": "post_3",
+          "timestamp": "2026-01-14 13:38:45"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Shibbir Hossen",
+          "content": "yes",
+          "id": "comment_1768462886525",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-15 07:41:26"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "LAMIA KHAN JASIN ",
+          "content": "sir 25 tarikh e final tahola text exm ar jonno",
+          "id": "1090302026HUMM383",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-16 08:06:57"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "MST. LIMA ",
+          "content": "sir prectical ki likte disen?",
+          "id": "1090302026HUMD322",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-16 16:58:43"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "DIL AFROZ KUMKUM",
+          "content": " sir exam er rutine diche??? ",
+          "id": "1090302026BUSD379",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-17 14:37:43"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "TUHIDA NASRIN ",
+          "content": "okay sir thank you ",
+          "id": "1090302026SCID302",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-17 16:46:10"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "LAMIYA SULTANA",
+          "content": "sir February 1 tarikh theke na",
+          "id": "1090302026BUSD291",
+          "likes": 0,
+          "postId": "post_3",
+          "timestamp": "2026-01-18 10:06:51"
+        }
+      ],
+      "content": "Test Exam may starts on 25, Jan.",
+      "postId": "post_3",
+      "imageUrl": null,
+      "likes": 210,
+      "tags": [
+        "test_exam"
+      ],
+      "timestamp": "2026-01-15 07:40:15",
+      "title": "Test Exam"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Shibbir Hossen",
+      "comments": [
+        {
+          "authorAvatar": null,
+          "authorName": "MARIAM MUNTAHA ",
+          "content": "👍",
+          "id": "1090302027SCIM66",
+          "likes": 10,
+          "postId": "post_1",
+          "timestamp": "2025-12-13 13:27:48"
+        },
+        {
+          "authorAvatar": null,
+          "authorName": "KAZI JANNATUN NUR ",
+          "content": "👍",
+          "id": "1090302027HUMD1",
+          "likes": 12,
+          "postId": "post_1",
+          "timestamp": "2025-12-15 11:27:05"
+        }
+      ],
+      "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 35,
+      "tags": [
+        "App"
+      ],
+      "timestamp": "2026-01-05 04:00:01",
+      "title": "Update App"
+    }
+  ],
+  "status": "success"
 }
