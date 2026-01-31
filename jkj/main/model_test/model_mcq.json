@@ -1,6 +1,720 @@
 {
   "model_tests": [
   {
+    "model_test_id": "74",
+    "teacher_id": "11467801713819046",
+    "difficulty": "All",
+    "test_name": "তৃতীয় অধ্যায়",
+    "chapter_name": "3.1 + 3.2",
+    "total_questions": 50,
+    "last_date": "2026-02-07",
+    "validity_time_minutes": 50,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) (A + B)\u0027",
+        "chapterId": "3.2",
+        "id": 22,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) A + B",
+          "খ) A · B",
+          "গ) (A + B)\u0027",
+          "ঘ) Ā · B̅"
+        ],
+        "question": "চিত্রে \u0027Y\u0027 এর মান কোনটি?"
+      },
+      {
+        "answer": "ঘ) 10.10",
+        "chapterId": "3.1",
+        "id": 36,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 101.10",
+          "খ) 11.11",
+          "গ) 11.10",
+          "ঘ) 10.10"
+        ],
+        "question": "ICT-তে (1011.11)₂ + (1101.10)₂ \u003d ?"
+      },
+      {
+        "answer": "গ) 11010001",
+        "chapterId": "3.1",
+        "id": 37,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 10100001",
+          "খ) 10101001",
+          "গ) 11010001",
+          "ঘ) 11010101"
+        ],
+        "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?"
+      },
+      {
+        "answer": "গ) বিট",
+        "chapterId": "3.1",
+        "id": 39,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) কিলোবাইট",
+          "খ) বাইট",
+          "গ) বিট",
+          "ঘ) মেগাবাইট"
+        ],
+        "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?"
+      },
+      {
+        "answer": "খ) 23",
+        "chapterId": "3.1",
+        "id": 46,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) 22",
+          "খ) 23",
+          "গ) 31",
+          "ঘ) 43"
+        ],
+        "question": "(10111)₂ এর দশমিক মান কত?"
+      },
+      {
+        "answer": "খ) FE",
+        "chapterId": "3.1",
+        "id": 60,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) EE",
+          "খ) FE",
+          "গ) EF",
+          "ঘ) F0"
+        ],
+        "question": "FF)₁₆ এর পূর্বের সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "3.1",
+        "id": 78,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "১০ ভিত্তিক সংখ্যা পদ্ধতি হলো- i. ভারতীয় সংখ্যা পদ্ধতি ii. মায়ান সংখ্যা পদ্ধতি iii. চীন সংখ্যা পদ্ধতি"
+      },
+      {
+        "answer": "খ) BCD code",
+        "chapterId": "3.1",
+        "id": 80,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) Octal code",
+          "খ) BCD code",
+          "গ) ASCII code",
+          "ঘ) Unicode"
+        ],
+        "question": "4 বিটবিশিষ্ট কোড কোনটি?"
+      },
+      {
+        "answer": "খ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 82,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে"
+      },
+      {
+        "answer": "ক) not(A⊕B)",
+        "chapterId": "3.2",
+        "id": 114,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) not(A⊕B)",
+          "খ) A⊕B",
+          "গ) A̅B̅+A̅B",
+          "ঘ) A̅B̅+AB"
+        ],
+        "question": "উদ্দীপকের ইনপুট O এর পরিবর্তে B হলে বর্তনীয় আউটপুট কত হবে?"
+      },
+      {
+        "answer": "গ) AB+BC",
+        "chapterId": "3.1",
+        "id": 117,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) A⊕B",
+          "খ) A̅B̅+B̅C̅",
+          "গ) AB+BC",
+          "ঘ) A̅B̅+B̅C̅"
+        ],
+        "question": "AB+BC এর দ্বৈত পরিপূরক কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 140,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "321 সংখ্যাটি হতে পারে- i. অক্টাল ii. ডেসিমাল iii. হেক্সাডেসিমাল"
+      },
+      {
+        "answer": "গ) C",
+        "chapterId": "3.2",
+        "id": 150,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) A",
+          "খ) B",
+          "গ) C",
+          "ঘ) AB"
+        ],
+        "question": "Y\u003dABC+C+BC- সরলীকৃত মান কত?"
+      },
+      {
+        "answer": "ঘ) 256",
+        "chapterId": "3.1",
+        "id": 171,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 16",
+          "খ) 32",
+          "গ) 128",
+          "ঘ) 256"
+        ],
+        "question": "ascii-8 কোডের মাধ্যমে সর্বোচ্চ কতটি অক্ষর বা চিহ্নকে কোডভুক্ত করা যায়?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.1",
+        "id": 178,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "(10110)₂ এর সমকক্ষ মান-\ni. (56)₈\nii. (46)₁₀\niii. (2F)₁₆"
+      },
+      {
+        "answer": "গ) খ্রিষ্টীয়",
+        "chapterId": "3.1",
+        "id": 186,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) মুসলিম",
+          "খ) গ্রিক",
+          "গ) খ্রিষ্টীয়",
+          "ঘ) মিশরীয়"
+        ],
+        "question": "কোন শাসকেরা শূন্যকে শয়তানের রূপ বিবেচনা করতো?"
+      },
+      {
+        "answer": "খ) Unicode",
+        "chapterId": "3.1",
+        "id": 201,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) BCD",
+          "খ) Unicode",
+          "গ) ASCII",
+          "ঘ) EBCDIC"
+        ],
+        "question": "পৃথিবীর সকল ভাষাকে কোন কোডভুক্ত করা সম্ভব হয়েছে?"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 202,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "তথ্য ও উপাত্ত সংরক্ষণের সাথে জড়িত-\ni. অ্যাডার\nii. ফ্লিপফ্লপ\niii. রেজিস্টার"
+      },
+      {
+        "answer": "ঘ) 11010.01001",
+        "chapterId": "3.1",
+        "id": 217,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 10110.01001",
+          "খ) 11010.00101",
+          "গ) 11001.01001",
+          "ঘ) 11010.01001"
+        ],
+        "question": "(1A.48)₁₆ এর সমতুল্য বাইনারি মান-"
+      },
+      {
+        "answer": "গ) A⊕B",
+        "chapterId": "3.2",
+        "id": 218,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) A+B",
+          "খ) AB",
+          "গ) A⊕B",
+          "ঘ) A.B"
+        ],
+        "question": "ব্লকচিত্রের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "গ) পূরক",
+        "chapterId": "3.2",
+        "id": 233,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) গুণ",
+          "খ) যোগ",
+          "গ) পূরক",
+          "ঘ) ভাগ"
+        ],
+        "question": "বুলিয়ান এলজেবরা সরলীকরণ করার সময় প্রথমে কোনটি করতে হয়?"
+      },
+      {
+        "answer": "খ) XOR",
+        "chapterId": "3.2",
+        "id": 238,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/Picture1.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) NAND",
+          "খ) XOR",
+          "গ) NOR",
+          "ঘ) XNOR"
+        ],
+        "question": "P এর সরলীকৃত মানের সমতুল্য গেট কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 242,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "বুলিয়ান সহায়ক উপপাদ্য-\ni. $x+xy \u003d x$\nii. $x(x+y)\u003dx$\niii. $x+\\overline{x}y \u003d x+y$"
+      },
+      {
+        "answer": "ঘ) X ⊕ Y",
+        "chapterId": "3.2",
+        "id": 276,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) X·Y",
+          "খ) Ȳ·X̄",
+          "গ) X ⊙ Ȳ",
+          "ঘ) X ⊕ Y"
+        ],
+        "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:"
+      },
+      {
+        "answer": "গ) NOR",
+        "chapterId": "3.2",
+        "id": 277,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) OR",
+          "খ) AND",
+          "গ) NOR",
+          "ঘ) NAND"
+        ],
+        "question": "চিত্রে \u00272\u0027 নং গেটের পরিবর্তে কোন গেট স্থাপন করলে F \u003d 0 হবে?"
+      },
+      {
+        "answer": "খ) (101001)₂",
+        "chapterId": "3.1",
+        "id": 289,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) (101100)₂",
+          "খ) (101001)₂",
+          "গ) (110010)₂",
+          "ঘ) (100101)₂"
+        ],
+        "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nদুটি সংখ্যার পার্থক্য (52)₁₀। তাদের মধ্যে বড় সংখ্যাটি (5D)₁₆।\nউদ্দীপকের অপর সংখ্যাটি কত?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 290,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nদুটি সংখ্যার পার্থক্য (52)₁₀। তাদের মধ্যে বড় সংখ্যাটি (5D)₁₆।\nসংখ্যা দুটির যোগফল হতে পারে-\n i. (10000110)₂ \t ii. (134)₁₀ \t iii. (206)₁₆ \nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) A \u003d 0, B \u003d 0",
+        "chapterId": "3.2",
+        "id": 291,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) A \u003d 0, B \u003d 0",
+          "খ) A \u003d 1, B \u003d 0",
+          "গ) A \u003d 0, B \u003d 1",
+          "ঘ) A \u003d 1, B \u003d 1"
+        ],
+        "question": "নিচের সার্কিটটির ক্ষেত্রে কখন আলো জ্বলবে না?\nচিত্র: "
+      },
+      {
+        "answer": "গ) ২৪টি",
+        "chapterId": "3.1",
+        "id": 295,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ৬টি",
+          "খ) ১২টি",
+          "গ) ২৪টি",
+          "ঘ) ৪৮টি"
+        ],
+        "question": "ইউনিকোডের প্রথম সংস্করণ কতটি ভাষা নিয়ে চালু করা হয়?"
+      },
+      {
+        "answer": "ক. NAND",
+        "chapterId": "3.2",
+        "id": 309,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. NAND",
+          "খ. NOR",
+          "গ. XNOR",
+          "ঘ. AND"
+        ],
+        "question": "কোন গেটটি সকল ইনপুট 1 হলে আউটপুট 0 হয় অন্যথায় আউটপুট 1 হয়?"
+      },
+      {
+        "answer": "ঘ. 1011110",
+        "chapterId": "3.1",
+        "id": 310,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. 101001",
+          "খ. 1100101",
+          "গ. 101110",
+          "ঘ. 1011110"
+        ],
+        "question": "(+34)₁₀ এর 2’s পরিপূরক কোনটি?"
+      },
+      {
+        "answer": "ঘ. 1",
+        "chapterId": "3.2",
+        "id": 312,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক. A",
+          "খ. B",
+          "গ. 0",
+          "ঘ. 1"
+        ],
+        "question": "উদ্দীপকের বর্তনীর অ্যান্ড গেটের পরিবর্তে অর গেইট বসালে Y এর মান কতো হবে?"
+      },
+      {
+        "answer": "খ) NAND",
+        "chapterId": "3.2",
+        "id": 325,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) NOR",
+          "খ) NAND",
+          "গ) X-OR",
+          "ঘ) X-NOR"
+        ],
+        "question": "উদ্দীপকে \u0027Y\u0027 এর মান \u00271\u0027 পেতে K এর স্থলে কোন গেইট হবে?"
+      },
+      {
+        "answer": "গ) ৬৫,৫৩৬",
+        "chapterId": "3.1",
+        "id": 345,
+        "level": "easy",
+        "options": [
+          "ক) ১২৮",
+          "খ) ২৫৬",
+          "গ) ৬৫,৫৩৬",
+          "ঘ) ১৫,৫০৬"
+        ],
+        "question": "ইউনিকোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?"
+      },
+      {
+        "answer": "ক) 1000110",
+        "chapterId": "3.1",
+        "id": 346,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch31.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) 1000110",
+          "খ) 1100011",
+          "গ) 1110001",
+          "ঘ) 1010111"
+        ],
+        "question": "সিগনালটির সমকক্ষ বাইনারি মান কোনটি?"
+      },
+      {
+        "answer": "ঘ) ১, ০, ১",
+        "chapterId": "3.2",
+        "id": 362,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/chitt25ch32.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) ১, ১, ০",
+          "খ) ০, ০, ১",
+          "গ) ০, ১, ০",
+          "ঘ) ১, ০, ১"
+        ],
+        "question": "সারণিটি দেখ নং প্রশ্নের উত্তর দাও:\n A, B, C এর মান কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 363,
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকে উল্লিখিত চিত্রটি বাস্তবায়নের জন্য গেট হলো-\ni. NOR\nii. NAND\niii. AND\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) (55.2)₈",
+        "chapterId": "3.1",
+        "id": 382,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) (55.2)₈",
+          "খ) (55.4)₈",
+          "গ) (2D.1)₁₆",
+          "ঘ) (2D.2)₁₆"
+        ],
+        "question": "(101101.01)₂ এর সমকক্ষ মান কোনটি?"
+      },
+      {
+        "answer": "গ) A + B̅",
+        "chapterId": "3.2",
+        "id": 386,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A + B",
+          "খ) Ā + B",
+          "গ) A + B̅",
+          "ঘ) Ā + B̅"
+        ],
+        "question": "চিত্রটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকে আউটপুট F এর সরলীকৃত মান হবে-"
+      },
+      {
+        "answer": "ক) এনকোডার",
+        "chapterId": "3.2",
+        "id": 406,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) এনকোডার",
+          "খ) ডিকোডার",
+          "গ) অ্যডার",
+          "ঘ) এনক্রিপশন"
+        ],
+        "question": "কোডভুক্ত করার জন্য ব্যবহৃত হয়-"
+      },
+      {
+        "answer": "ঘ) AND গেট",
+        "chapterId": "3.2",
+        "id": 407,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw\u003dtrue",
+        "level": "easy",
+        "options": [
+          "ক) XOR গেট",
+          "খ) NOR গেট",
+          "গ) XNOR গেট",
+          "ঘ) AND গেট"
+        ],
+        "question": "উদ্দীপকের বর্তনীটি হলো- (Context: একটি চিত্র যেখানে একটি XOR গেট-এর চিহ্ন আছে)"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "3.2",
+        "id": 410,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 1",
+          "গ) A",
+          "ঘ) B"
+        ],
+        "question": "(A+B)\u0027(A\u0027+B\u0027)\u0027 এর সরলীকৃত মান-"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.2",
+        "id": 427,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "F-এর সরলীকৃত মানকে প্রতিস্থাপন করা যাবে-\ni. NAND Gate দিয়ে\nii. NOR Gate দিয়ে\niii. AND Gate দিয়ে\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 430,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "(BC)₁₆ এর সমকক্ষ মান হবে-\ni. (10111100)₂\nii. (274)₈\niii. (188)₁₀\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) এনকোডার",
+        "chapterId": "3.2",
+        "id": 431,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32E.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) হাফ অ্যাডার",
+          "খ) ফুল অ্যাডার",
+          "গ) এনকোডার",
+          "ঘ) ডিকোডার"
+        ],
+        "question": "নিচের চিত্রটি দ্বারা কোন বর্তনীকে নির্দেশ করে?"
+      },
+      {
+        "answer": "ক) নিবল",
+        "chapterId": "3.1",
+        "id": 442,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) নিবল",
+          "খ) কম্পিউটার শব্দ",
+          "গ) ডেসিমাল",
+          "ঘ) ক্যারেট"
+        ],
+        "question": "এক বাইটের অর্ধেককে কী বলা হয়?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.1",
+        "id": 452,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "আইসিটি শিক্ষক ক্লাসে দুইটি সংখ্যা লিখলেন যা নিম্নরূপ\n(1101.01)₂ এবং (111.11)₂ সংখ্যা দুটির মধ্যে পার্থক্য হলো-\ni. (5.5)₁₀\nii. (5.4)₈\niii. (15.4)₁₆\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) X-NOR",
+        "chapterId": "3.2",
+        "id": 454,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) OR",
+          "খ) NOR",
+          "গ) XOR",
+          "ঘ) X-NOR"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\n উদ্দীপকের সার্কিটটি কোন গেটকে নির্দেশ করে?"
+      },
+      {
+        "answer": "গ) Ā B C̄ ",
+        "chapterId": "3.2",
+        "id": 455,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) A·B·C",
+          "খ) A + B + C",
+          "গ) Ā B C̄ ",
+          "ঘ) A + B + C"
+        ],
+        "question": "এখানে, P \u003d ?"
+      },
+      {
+        "answer": "ঘ) A \u003d 0, B \u003d 1, C \u003d 0",
+        "chapterId": "3.2",
+        "id": 456,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A \u003d 0, B \u003d 1, C \u003d 1",
+          "খ) A \u003d 1, B \u003d 0, C \u003d 1",
+          "গ) A \u003d 1, B \u003d 1, C \u003d 1",
+          "ঘ) A \u003d 0, B \u003d 1, C \u003d 0"
+        ],
+        "question": "P \u003d 1 হবে, যখন"
+      }
+    ]
+  },
+  {
     "model_test_id": "73",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
