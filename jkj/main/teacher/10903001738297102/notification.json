@@ -2,7 +2,20 @@
   "message": null,
   "status": "success",
   "notifications": [
-     {
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Shibbir Hossen",
+      "emoji": "📝",
+      "id": "notif_10",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Shibbir Hossen has created a new post",
+      "postId": "post_11",
+      "timestamp": "2026-02-15 12:37:24",
+      "title": "New Post: n",
+      "type": "post"
+    },
+    {
       "authorAvatar": "default_url",
       "authorName": "Shibbir Hossen",
       "emoji": "📝",
