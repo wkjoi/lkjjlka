@@ -11,7 +11,16 @@
             "tags": [
                 "honors"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302025OTHM2004",
+                    "postId": "post_13",
+                    "authorName": "DILSHAD SULTANA RAISA",
+                    "content": "Okk,Sir",
+                    "timestamp": "2026-02-16 23:11:10",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_11",
