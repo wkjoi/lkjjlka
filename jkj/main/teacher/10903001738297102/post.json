@@ -11,7 +11,16 @@
             "tags": [
                 "honors"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302026HUMD27",
+                    "postId": "post_13",
+                    "authorName": "ALIMA",
+                    "content": "eta ki sir",
+                    "timestamp": "2026-03-02 10:17:50",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_11",
