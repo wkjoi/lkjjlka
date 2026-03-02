@@ -1,444 +1,442 @@
 {
-    "posts": [
+  "posts" : [
+    {
+      "comments" : [
         {
-            "postId": "post_13",
-            "title": "n",
-            "content": "n",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-03-02 16:00:13",
-            "teacherProfilePic": "default_url",
-            "likes": 1,
-            "tags": [
-                "honors"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026HUMD27",
-                    "postId": "post_13",
-                    "authorName": "ALIMA",
-                    "content": "eta ki sir",
-                    "timestamp": "2026-03-02 10:17:50",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_11",
-            "title": "🙂একাদশ নবীন বরণ🙂",
-            "content": "তোমাদের নবীন বরণ 17 ফেব্রুয়ারি অনুষ্ঠিত হবার কথা। কিন্তু নির্বাচন ও রমজান এর কারণে কলেজ বন্ধ। \nতাই নবীন বরণ ঈদ উল ফিতর এর পর অনুষ্ঠিত হবে বলে আশা রাখি। আপাতত পড়াশোনা ও ইবাদতে মনোযোগ দাও। 😅 টা টা বাই বাই। ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-02-15 12:37:24",
-            "teacherProfilePic": "default_url",
-            "likes": 9,
-            "tags": [
-                "nobin_boron"
-            ],
-            "comments": [
-                {
-                    "id": "comment_1",
-                    "postId": "post_11",
-                    "authorName": "SHIBBIR",
-                    "content": "আগামী কালকে 16 তারিখ (সোমবার) কিন্তু কলেজে ফুল ক্লাস আছে. ",
-                    "timestamp": "2026-02-15 18:44:23",
-                    "likes": 10
-                },
-                {
-                    "id": "1090302027HUMD100",
-                    "postId": "post_11",
-                    "authorName": "MITU AKTER LIZA",
-                    "content": "Amader nobin boron ur hobe na mone hocche🙂",
-                    "timestamp": "2026-02-15 20:15:01",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027HUMM55",
-                    "postId": "post_11",
-                    "authorName": "MARIYA AKTER PRIYA",
-                    "content": "ar nobin boron akbare biday onusthan korlei hobe🙂",
-                    "timestamp": "2026-02-15 20:27:20",
-                    "likes": 9
-                },
-                {
-                    "id": "1090302026325",
-                    "postId": "post_11",
-                    "authorName": "ALEMATUSSADIA",
-                    "content": "17 tarikh e ki college khola",
-                    "timestamp": "2026-02-15 22:34:32",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027137",
-                    "postId": "post_11",
-                    "authorName": "MITHILA RAHMAN ",
-                    "content": " কিসের আবার নবীন বরণ,  আমরা অলরেডি প্রবীণ হয়ে গিয়েছি। একেবারে বিদায় অনুষ্ঠান করবো আমরা🐸",
-                    "timestamp": "2026-02-15 22:43:56",
-                    "likes": 3
-                },
-                {
-                    "id": "comment_2",
-                    "postId": "post_11",
-                    "authorName": "SHIBBIR",
-                    "content": "১৭ তারিখ ও ক্লাস আছে। ",
-                    "timestamp": "2026-02-15 23:58:53",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027SCID144268",
-                    "postId": "post_11",
-                    "authorName": "TRISHNA CHAKRABARTI ",
-                    "content": "কিছু বলার নাই 🤣🤣",
-                    "timestamp": "2026-02-16 11:49:43",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_11",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "1st year ar 2st year ekshati nobin boron hbe 🙂 mne hoy",
-                    "timestamp": "2026-02-20 21:00:01",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027305",
-                    "postId": "post_11",
-                    "authorName": "SAMIA AKTER",
-                    "content": "একেবারে বিদায় অনুষ্ঠান সহ হবে মনে হচ্ছে🙂🙂",
-                    "timestamp": "2026-02-27 18:45:34",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_8",
-            "title": "ICT Practical ( TEST EXAM-2026)",
-            "content": "তোমাদের আগেই আমি জানিয়েছিলাম যে টেস্ট পরীক্ষার সময় একটি Practical পরীক্ষা দিতে হবে। যাদের যেই বিষয়ের ব্যাবহারিক আছে তাদের ওই বিষয়গুলা দিতে হবে। \n আমাদের আইসিটির মানবণ্টন (২৫ mcq + ২৫ cq + ২৫ ব্যাবহারিক) \n\n ব্যাবহারিক পরীক্ষায় ২৫ নম্বর। এর জন্য তোমাদের সবাইকে দুটি কাজ করতে হবে। (১) ব্যাবহারিক পরীক্ষায়  অংশগ্রহণ করতে হবে (২) একটা ব্যাবহারিক লিখে দেখাতে হবে (আপাতত একটা, এই একই খাতায় আরও লিখতে হবে। আমরা বাকিগুলা পরে দিয়ে দিব) । ব্যাবহারিক বই এ কি লিখবে তার লিঙ্ক নিচে যুক্ত আছে। \n\n ব্যাবহারিক পরীক্ষার সময় ও তারিখ \n\n ১। ব্যবসায় শিক্ষা - ২২\/০১\/২০২৬- বৃহস্পতিবার- দুপুর ১২ঃ৩০ \n২।মানবিক - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১২:০০ \n বিজ্ঞান - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১:০০ \n\n\n খাতা জমার নির্দেশনাঃ যে কোন ব্যাবহারিক খাতায় লিখলেই হবে। জমাদানের সময়ঃ - আগামী ২১\/০১\/২৬ থেকে ১০\/০২\/২৬। জমা দিয়ে সাইন করে যাবে নিশ্চয়ই। \n\n\n  বিঃ দ্রঃ ব্যাবহারিক পরীক্ষা না দিলে বা খাতা না দেখালে, মূল পরীক্ষায় অংশগ্রহণ করলেও কোন নম্বর যুক্ত হবে না। পরীক্ষার তারিখ ও সময় যে কোন সময় পরিবর্তন হইতে পারে। \nlink - https:\/\/shorturl.at\/IfsX5",
-            "teacherName": "Md. Shibbir Hossen",
-            "timestamp": "2026-01-18 14:11:07",
-            "teacherProfilePic": "default_url",
-            "likes": 42,
-            "tags": [
-                "Practical"
-            ],
-            "comments": [
-                {
-                    "id": "1090302026HUMM284",
-                    "postId": "post_8",
-                    "authorName": "KHADIZA AKHTER OTHOI ",
-                    "content": "Sir link atw dhuka jayna ",
-                    "timestamp": "2026-01-18 20:59:25",
-                    "likes": 14
-                },
-                {
-                    "id": "1090302026HUMM230",
-                    "postId": "post_8",
-                    "authorName": "NUZAT TABASSUM KHUSHI",
-                    "content": "sir copy kora jayna. ei pura text o kora jayna, ar link tao jayna. chrome e giye manually likhleo kaj korena.",
-                    "timestamp": "2026-01-18 22:03:07",
-                    "likes": 3
-                },
-                {
-                    "id": "comment_1768750729962",
-                    "postId": "post_8",
-                    "authorName": "Md. Shibbir Hossen",
-                    "content": "https:\/\/shorturl.at\/IfsX5",
-                    "timestamp": "2026-01-18 15:38:49",
-                    "likes": 48
-                },
-                {
-                    "id": "1090302026HUMD231",
-                    "postId": "post_8",
-                    "authorName": "TANJILA AKTER",
-                    "content": "sir link e to dhuka oi jaitase na",
-                    "timestamp": "2026-01-18 21:41:49",
-                    "likes": 9
-                },
-                {
-                    "id": "comment_1768751081335",
-                    "postId": "post_8",
-                    "authorName": "Md. Shibbir Hossen",
-                    "content": "http.. theke porer ongsho niye 'chrome' e open koro",
-                    "timestamp": "2026-01-18 15:44:41",
-                    "likes": 3
-                },
-                {
-                    "id": "1090302026SCID250",
-                    "postId": "post_8",
-                    "authorName": "FAHMIDA AKTER ANNI",
-                    "content": "sir sob vabe try korlam hoitses na to",
-                    "timestamp": "2026-01-18 22:50:41",
-                    "likes": 2
-                },
-                {
-                    "id": "1090302026HUMD392",
-                    "postId": "post_8",
-                    "authorName": "MYMUNA NAWER HIYA",
-                    "content": "sir link e dhuka jache na",
-                    "timestamp": "2026-01-18 23:00:20",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027BUSD2636924",
-                    "postId": "post_8",
-                    "authorName": "ANANYA DAS",
-                    "content": "Facebook e ager bar er moton Dile sobai paito sir ☺️",
-                    "timestamp": "2026-01-18 23:15:23",
-                    "likes": 4
-                },
-                {
-                    "id": "1090302026BUSM347",
-                    "postId": "post_8",
-                    "authorName": "SAMIA AKTER",
-                    "content": "sir link e dhuka jacche na",
-                    "timestamp": "2026-01-19 08:07:47",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCIM107",
-                    "postId": "post_8",
-                    "authorName": "AFIA IBNAT",
-                    "content": "link e dhuka jay na",
-                    "timestamp": "2026-01-19 10:21:10",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD153",
-                    "postId": "post_8",
-                    "authorName": "LAMIA ZIM",
-                    "content": "sir link a doka jai na ",
-                    "timestamp": "2026-01-19 10:40:14",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD146",
-                    "postId": "post_8",
-                    "authorName": "FARIA",
-                    "content": "https:\/\/shorturl.at\/lfsX5",
-                    "timestamp": "2026-01-19 12:07:23",
-                    "likes": 10
-                },
-                {
-                    "id": "1090302026BUSD187",
-                    "postId": "post_8",
-                    "authorName": "NUSRAT JAHAN NUPOR",
-                    "content": "sir practical khatay kora lagbo, naki jekono khatay korlei hobe..???",
-                    "timestamp": "2026-01-19 12:56:40",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSD49",
-                    "postId": "post_8",
-                    "authorName": "SUMI AKTER FARJANA ",
-                    "content": "hu",
-                    "timestamp": "2026-01-19 13:46:52",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMM10",
-                    "postId": "post_8",
-                    "authorName": "আলমিনা সুলতানা কনিকা",
-                    "content": "keo ki dukte parco link e? ",
-                    "timestamp": "2026-01-19 14:13:25",
-                    "likes": 3
-                },
-                {
-                    "id": "1090302026HUMM208",
-                    "postId": "post_8",
-                    "authorName": "AYESHA AKTER ETI",
-                    "content": "sir link asena",
-                    "timestamp": "2026-01-19 15:12:08",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSD119",
-                    "postId": "post_8",
-                    "authorName": "ARIA IBNAT ANIKA ",
-                    "content": "sir Link a dhoka   jay na",
-                    "timestamp": "2026-01-19 17:00:48",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302025HUMM346",
-                    "postId": "post_8",
-                    "authorName": "MST SOMIYA",
-                    "content": "sir link a to doka jaitesana",
-                    "timestamp": "2026-01-19 17:56:53",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026SCID176",
-                    "postId": "post_8",
-                    "authorName": "TITHI ROY",
-                    "content": "স্যার, কালার পেন ব্যবহার না করলে হবে না। দয়া করে একটু বলবেন।",
-                    "timestamp": "2026-01-19 18:01:55",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD2717224",
-                    "postId": "post_8",
-                    "authorName": "MST SUMAIYA AKTER",
-                    "content": "Sir plz onno kono way te den ata te hoy na chrome a hoy na",
-                    "timestamp": "2026-01-19 21:47:57",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD342",
-                    "postId": "post_8",
-                    "authorName": "FIROJA TAHMIM NODI",
-                    "content": "link e dhuka jai na, copy o kora jai na ",
-                    "timestamp": "2026-01-20 07:54:38",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1768751081336",
-                    "postId": "post_8",
-                    "authorName": "Shibbir Hossen",
-                    "content": "Yes",
-                    "timestamp": "2026-01-20 16:50:24",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1768751081337",
-                    "postId": "post_8",
-                    "authorName": "Shibbir Hossen",
-                    "content": "তোমার যেই খাতায় মনে চায় লিখ. তবে ব্যাবহারিক খাতায় লিখলে ভালো হবে. কারণ আবার লিখাই লাগবে. রং পেন্সিল দিয়ে বা অন্য কোন উপায়ে কালার করতে হবে. ফেসবুক এ অনেক বাইরের মানুষজন আছে. তাই আমার কাছে মনে হচ্ছে এইখানেই সেফ.  -- যারা লিঙ্ক ওপেন করতে পারতেছ না, তারা অভিজ্ঞদের পরামর্শ নেও়. তোমাদের পরীক্ষার তারিখ ও খাতার নির্দেশনা সবাইকে জানানোর জন্য বলা হলো. ",
-                    "timestamp": "2026-01-20 17:22:45",
-                    "likes": 12
-                },
-                {
-                    "id": "1090302026HUMD327",
-                    "postId": "post_8",
-                    "authorName": "SHAMIMA AKTER MIM",
-                    "content": "Kew amake ektu bolo link e kivabe dhukbo , eikhane try krtechi but hocche na",
-                    "timestamp": "2026-01-29 12:45:51",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026HUMD190",
-                    "postId": "post_8",
-                    "authorName": "MST.RABEYA KHATUN",
-                    "content": "sir link open korte parchi na to",
-                    "timestamp": "2026-02-01 14:21:29",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302026BUSD298",
-                    "postId": "post_8",
-                    "authorName": "JANNATUL MAWA MIRA",
-                    "content": "5trikh joma dite parbo?",
-                    "timestamp": "2026-02-03 13:34:39",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_6",
-            "title": "অনার্স ১ম বর্ষ, Assignment- 1",
-            "content": "(১) ICT কী? ICT উপকারীতা ও অপকারিতা ব্যাখ্যা কর।\n\n(২) শিক্ষা ক্ষেত্রে ও চাকরি ক্ষেত্রে আইসিটির প্রয়োজনীয়তা লেখ।\n\n(৩) ডাটা এবং ইনফরমেশনের পার্থক্য লিখ।\n\n(৪) কম্পিউটারের প্রকারভেদ (মিনি কম্পিউটার, মাইক্রো কম্পিউটার, সুপার কম্পিউটার)\n\n(৫) একটি কম্পিউটারের প্রধান অংশ (Component) ব্যাখ্যা কর— (i) Input \/ Output (ii) Memory (iii) CPU \n\n(৬) Hardware কাকে বলে?\n\n(৭) Software কাকে বলে? বিভিন্ন ধরনের সফটওয়্যার ব্যাখ্যা কর ( ১। সিস্টেম ২। আপ্লিকেশন) \n\n(৮) OCR-এর পূর্ণরূপ কী?\n\n(৯) RAM এবং ROM-এর পার্থক্য লিখ।\n\n(১০) Primary Memory vs Secondary Memory পার্থক্য লিখ? উদাহরণসহ।\n\n(১১) অপারেটিং সিস্টেম কী? অপারেটিং সিস্টেমের কাজ কী?\n\nনোট- জমাদানের তারিখ ( ১৩\/০১\/২০২৬ ) ",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-06 04:48:57",
-            "teacherProfilePic": "default_url",
-            "likes": 11,
-            "tags": [
-                "honors_assignments"
-            ],
-            "comments": [
-                {
-                    "id": "1090302025OTHM2004",
-                    "postId": "post_6",
-                    "authorName": "DILSHAD SULTANA RAISA",
-                    "content": "okk Sir ",
-                    "timestamp": "2026-01-06 15:17:59",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1767717316362",
-                    "postId": "post_6",
-                    "authorName": "Shibbir Hossen",
-                    "content": "eita kintu 3 dept. er jonnoi. ( bangla, eng, political science)",
-                    "timestamp": "2026-01-06 16:35:16",
-                    "likes": 11
-                },
-                {
-                    "id": "1090302028OTHD57",
-                    "postId": "post_6",
-                    "authorName": "TAHMINA AKTER",
-                    "content": "Thik ache sir.but joma deyar last date kobe",
-                    "timestamp": "2026-01-06 23:39:48",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302025OTHD1071",
-                    "postId": "post_6",
-                    "authorName": "SADIA AKTER ANTORA",
-                    "content": "sir amra ICT kon Book kinbo?? ",
-                    "timestamp": "2026-01-08 15:59:58",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302025HUMD2009",
-                    "postId": "post_6",
-                    "authorName": "FARIHA KHANAM",
-                    "content": "ok sir",
-                    "timestamp": "2026-01-09 10:32:01",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1768142773601",
-                    "postId": "post_6",
-                    "authorName": "Shibbir Hossen",
-                    "content": "milestone prokashoni",
-                    "timestamp": "2026-01-11 14:46:13",
-                    "likes": 3
-                },
-                {
-                    "id": "1090302025SCID37",
-                    "postId": "post_6",
-                    "authorName": "TASFIA TAJRIAN HRIDITA ",
-                    "content": "আগামীকাল কি আমাদের ক্লাস হবে?",
-                    "timestamp": "2026-01-12 22:28:38",
-                    "likes": 0
-                }
-            ]
-        },
-        {
-            "postId": "post_1",
-            "title": "Update App",
-            "content": "A new HTML editor is included in our app. To get the latest update, please update our app.",
-            "teacherName": "Shibbir Hossen",
-            "timestamp": "2026-01-05 04:00:01",
-            "teacherProfilePic": "default_url",
-            "likes": 46,
-            "tags": [
-                "App"
-            ],
-            "comments": [
-                {
-                    "id": "1090302027SCIM66",
-                    "postId": "post_1",
-                    "authorName": "MARIAM MUNTAHA ",
-                    "content": "👍",
-                    "timestamp": "2025-12-13 13:27:48",
-                    "likes": 12
-                },
-                {
-                    "id": "1090302027HUMD1",
-                    "postId": "post_1",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "👍",
-                    "timestamp": "2025-12-15 11:27:05",
-                    "likes": 81
-                },
-                {
-                    "id": "1090302025121363",
-                    "postId": "post_1",
-                    "authorName": "SHAIRA ISLAM ",
-                    "content": "👍👍",
-                    "timestamp": "2026-01-23 13:51:59",
-                    "likes": 2
-                }
-            ]
+          "authorName" : "ALIMA",
+          "content" : "eta ki sir",
+          "id" : "1090302026HUMD27",
+          "likes" : 0,
+          "postId" : "post_13",
+          "timestamp" : "2026-03-02 10:17:50"
         }
-    ],
-    "status": "success",
-    "message": null
+      ],
+      "content" : "অনার্স এর ICT Lab ( Course Code – 216602)  এ একটি ব্যাবহারিক খাতা লিখতে হবে। এই কোর্স এর জন্য নিচের ৬টি পরীক্ষণ লিখতে হবে। পরীক্ষণের নাম নিচে দেওয়া হল- \\n \\n\r\nপরীক্ষণ ১- কম্পিউটার হার্ডওয়্যার এসেম্বলি, সফটওয়ার ইন্সটল, ফাইল ব্যবস্থাপনা ও রক্ষণাবেক্ষণ\\n\r\nপরীক্ষণ ২- MS- Word এ ডকুমেন্ট তৈরি, ফরম্যাট ও প্রিন্ট করা \\n\r\nপরীক্ষণ ৩- MS- Excel  এর বিভিন্ন সূত্র ব্যাবহার ও প্রিন্ট \\n\r\nপরীক্ষণ ৪  MS- PowerPoint  ব্যাবহার করে প্রেসেন্টেসন তৈরি করা\\n\r\nপরীক্ষণ ৫ যে কোন একটি Antivirus Software ইন্সটল ও তার মৌলিক ব্যাবহার\\n\r\nপরীক্ষণ ৬ ইন্টারনেট ও তৎসংশ্লিষ্ট বিভিন্ন ক্লাউড সফটওয়্যার ( জিমেইল ) এর ব্যাবহার\\n\\n\r\n\r\nকিছু প্রশ্নঃ \\n\r\nকোন খাতায় লিখতে হবে? উত্তর- যে কোন খাতায় বা অফসেট পেজ বা যে কোন পেজ এ লিখলেই হবে। ব্যাবহারিক খাতায় না লিখেলও সমস্যা নাই। অফসেট কাগজে লিখলে ভাল করে (স্পাইরাল বাঁধাই) দিতে হবে। \\n \r\n\r\nকবে জমা দিতে হবে? উত্তর- ঈদ এর পর জমা নিব। তোমরা সবাই রোজার বন্ধে লিখে ফেল।",
+      "likes" : 1,
+      "postId" : "post_13",
+      "tags" : [
+        "honors"
+      ],
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-03-02 16:00:13",
+      "title" : "n"
+    },
+    {
+      "comments" : [
+        {
+          "authorName" : "SHIBBIR",
+          "content" : "আগামী কালকে 16 তারিখ (সোমবার) কিন্তু কলেজে ফুল ক্লাস আছে. ",
+          "id" : "comment_1",
+          "likes" : 10,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 18:44:23"
+        },
+        {
+          "authorName" : "MITU AKTER LIZA",
+          "content" : "Amader nobin boron ur hobe na mone hocche🙂",
+          "id" : "1090302027HUMD100",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 20:15:01"
+        },
+        {
+          "authorName" : "MARIYA AKTER PRIYA",
+          "content" : "ar nobin boron akbare biday onusthan korlei hobe🙂",
+          "id" : "1090302027HUMM55",
+          "likes" : 9,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 20:27:20"
+        },
+        {
+          "authorName" : "ALEMATUSSADIA",
+          "content" : "17 tarikh e ki college khola",
+          "id" : "1090302026325",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 22:34:32"
+        },
+        {
+          "authorName" : "MITHILA RAHMAN ",
+          "content" : " কিসের আবার নবীন বরণ,  আমরা অলরেডি প্রবীণ হয়ে গিয়েছি। একেবারে বিদায় অনুষ্ঠান করবো আমরা🐸",
+          "id" : "1090302027137",
+          "likes" : 3,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 22:43:56"
+        },
+        {
+          "authorName" : "SHIBBIR",
+          "content" : "১৭ তারিখ ও ক্লাস আছে। ",
+          "id" : "comment_2",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-15 23:58:53"
+        },
+        {
+          "authorName" : "TRISHNA CHAKRABARTI ",
+          "content" : "কিছু বলার নাই 🤣🤣",
+          "id" : "1090302027SCID144268",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-16 11:49:43"
+        },
+        {
+          "authorName" : "KAZI JANNATUN NUR ",
+          "content" : "1st year ar 2st year ekshati nobin boron hbe 🙂 mne hoy",
+          "id" : "1090302027HUMD1",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-20 21:00:01"
+        },
+        {
+          "authorName" : "SAMIA AKTER",
+          "content" : "একেবারে বিদায় অনুষ্ঠান সহ হবে মনে হচ্ছে🙂🙂",
+          "id" : "1090302027305",
+          "likes" : 0,
+          "postId" : "post_11",
+          "timestamp" : "2026-02-27 18:45:34"
+        }
+      ],
+      "content" : "তোমাদের নবীন বরণ 17 ফেব্রুয়ারি অনুষ্ঠিত হবার কথা। কিন্তু নির্বাচন ও রমজান এর কারণে কলেজ বন্ধ। \nতাই নবীন বরণ ঈদ উল ফিতর এর পর অনুষ্ঠিত হবে বলে আশা রাখি। আপাতত পড়াশোনা ও ইবাদতে মনোযোগ দাও। 😅 টা টা বাই বাই। ",
+      "likes" : 9,
+      "postId" : "post_11",
+      "tags" : [
+        "nobin_boron"
+      ],
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-02-15 12:37:24",
+      "title" : "🙂একাদশ নবীন বরণ🙂"
+    },
+    {
+      "comments" : [
+        {
+          "authorName" : "KHADIZA AKHTER OTHOI ",
+          "content" : "Sir link atw dhuka jayna ",
+          "id" : "1090302026HUMM284",
+          "likes" : 14,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 20:59:25"
+        },
+        {
+          "authorName" : "NUZAT TABASSUM KHUSHI",
+          "content" : "sir copy kora jayna. ei pura text o kora jayna, ar link tao jayna. chrome e giye manually likhleo kaj korena.",
+          "id" : "1090302026HUMM230",
+          "likes" : 3,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 22:03:07"
+        },
+        {
+          "authorName" : "Md. Shibbir Hossen",
+          "content" : "https:\/\/shorturl.at\/IfsX5",
+          "id" : "comment_1768750729962",
+          "likes" : 48,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 15:38:49"
+        },
+        {
+          "authorName" : "TANJILA AKTER",
+          "content" : "sir link e to dhuka oi jaitase na",
+          "id" : "1090302026HUMD231",
+          "likes" : 9,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 21:41:49"
+        },
+        {
+          "authorName" : "Md. Shibbir Hossen",
+          "content" : "http.. theke porer ongsho niye 'chrome' e open koro",
+          "id" : "comment_1768751081335",
+          "likes" : 3,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 15:44:41"
+        },
+        {
+          "authorName" : "FAHMIDA AKTER ANNI",
+          "content" : "sir sob vabe try korlam hoitses na to",
+          "id" : "1090302026SCID250",
+          "likes" : 2,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 22:50:41"
+        },
+        {
+          "authorName" : "MYMUNA NAWER HIYA",
+          "content" : "sir link e dhuka jache na",
+          "id" : "1090302026HUMD392",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 23:00:20"
+        },
+        {
+          "authorName" : "ANANYA DAS",
+          "content" : "Facebook e ager bar er moton Dile sobai paito sir ☺️",
+          "id" : "1090302027BUSD2636924",
+          "likes" : 4,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-18 23:15:23"
+        },
+        {
+          "authorName" : "SAMIA AKTER",
+          "content" : "sir link e dhuka jacche na",
+          "id" : "1090302026BUSM347",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 08:07:47"
+        },
+        {
+          "authorName" : "AFIA IBNAT",
+          "content" : "link e dhuka jay na",
+          "id" : "1090302026SCIM107",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 10:21:10"
+        },
+        {
+          "authorName" : "LAMIA ZIM",
+          "content" : "sir link a doka jai na ",
+          "id" : "1090302026HUMD153",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 10:40:14"
+        },
+        {
+          "authorName" : "FARIA",
+          "content" : "https:\/\/shorturl.at\/lfsX5",
+          "id" : "1090302026HUMD146",
+          "likes" : 10,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 12:07:23"
+        },
+        {
+          "authorName" : "NUSRAT JAHAN NUPOR",
+          "content" : "sir practical khatay kora lagbo, naki jekono khatay korlei hobe..???",
+          "id" : "1090302026BUSD187",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 12:56:40"
+        },
+        {
+          "authorName" : "SUMI AKTER FARJANA ",
+          "content" : "hu",
+          "id" : "1090302026BUSD49",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 13:46:52"
+        },
+        {
+          "authorName" : "আলমিনা সুলতানা কনিকা",
+          "content" : "keo ki dukte parco link e? ",
+          "id" : "1090302026HUMM10",
+          "likes" : 3,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 14:13:25"
+        },
+        {
+          "authorName" : "AYESHA AKTER ETI",
+          "content" : "sir link asena",
+          "id" : "1090302026HUMM208",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 15:12:08"
+        },
+        {
+          "authorName" : "ARIA IBNAT ANIKA ",
+          "content" : "sir Link a dhoka   jay na",
+          "id" : "1090302026BUSD119",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 17:00:48"
+        },
+        {
+          "authorName" : "MST SOMIYA",
+          "content" : "sir link a to doka jaitesana",
+          "id" : "1090302025HUMM346",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 17:56:53"
+        },
+        {
+          "authorName" : "TITHI ROY",
+          "content" : "স্যার, কালার পেন ব্যবহার না করলে হবে না। দয়া করে একটু বলবেন।",
+          "id" : "1090302026SCID176",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 18:01:55"
+        },
+        {
+          "authorName" : "MST SUMAIYA AKTER",
+          "content" : "Sir plz onno kono way te den ata te hoy na chrome a hoy na",
+          "id" : "1090302026HUMD2717224",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-19 21:47:57"
+        },
+        {
+          "authorName" : "FIROJA TAHMIM NODI",
+          "content" : "link e dhuka jai na, copy o kora jai na ",
+          "id" : "1090302026HUMD342",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-20 07:54:38"
+        },
+        {
+          "authorName" : "Shibbir Hossen",
+          "content" : "Yes",
+          "id" : "comment_1768751081336",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-20 16:50:24"
+        },
+        {
+          "authorName" : "Shibbir Hossen",
+          "content" : "তোমার যেই খাতায় মনে চায় লিখ. তবে ব্যাবহারিক খাতায় লিখলে ভালো হবে. কারণ আবার লিখাই লাগবে. রং পেন্সিল দিয়ে বা অন্য কোন উপায়ে কালার করতে হবে. ফেসবুক এ অনেক বাইরের মানুষজন আছে. তাই আমার কাছে মনে হচ্ছে এইখানেই সেফ.  -- যারা লিঙ্ক ওপেন করতে পারতেছ না, তারা অভিজ্ঞদের পরামর্শ নেও়. তোমাদের পরীক্ষার তারিখ ও খাতার নির্দেশনা সবাইকে জানানোর জন্য বলা হলো. ",
+          "id" : "comment_1768751081337",
+          "likes" : 12,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-20 17:22:45"
+        },
+        {
+          "authorName" : "SHAMIMA AKTER MIM",
+          "content" : "Kew amake ektu bolo link e kivabe dhukbo , eikhane try krtechi but hocche na",
+          "id" : "1090302026HUMD327",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-01-29 12:45:51"
+        },
+        {
+          "authorName" : "MST.RABEYA KHATUN",
+          "content" : "sir link open korte parchi na to",
+          "id" : "1090302026HUMD190",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-02-01 14:21:29"
+        },
+        {
+          "authorName" : "JANNATUL MAWA MIRA",
+          "content" : "5trikh joma dite parbo?",
+          "id" : "1090302026BUSD298",
+          "likes" : 0,
+          "postId" : "post_8",
+          "timestamp" : "2026-02-03 13:34:39"
+        }
+      ],
+      "content" : "তোমাদের আগেই আমি জানিয়েছিলাম যে টেস্ট পরীক্ষার সময় একটি Practical পরীক্ষা দিতে হবে। যাদের যেই বিষয়ের ব্যাবহারিক আছে তাদের ওই বিষয়গুলা দিতে হবে। \n আমাদের আইসিটির মানবণ্টন (২৫ mcq + ২৫ cq + ২৫ ব্যাবহারিক) \n\n ব্যাবহারিক পরীক্ষায় ২৫ নম্বর। এর জন্য তোমাদের সবাইকে দুটি কাজ করতে হবে। (১) ব্যাবহারিক পরীক্ষায়  অংশগ্রহণ করতে হবে (২) একটা ব্যাবহারিক লিখে দেখাতে হবে (আপাতত একটা, এই একই খাতায় আরও লিখতে হবে। আমরা বাকিগুলা পরে দিয়ে দিব) । ব্যাবহারিক বই এ কি লিখবে তার লিঙ্ক নিচে যুক্ত আছে। \n\n ব্যাবহারিক পরীক্ষার সময় ও তারিখ \n\n ১। ব্যবসায় শিক্ষা - ২২\/০১\/২০২৬- বৃহস্পতিবার- দুপুর ১২ঃ৩০ \n২।মানবিক - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১২:০০ \n বিজ্ঞান - ০৮\/০২\/২০২৬ - রবিবার - দুপুর ১:০০ \n\n\n খাতা জমার নির্দেশনাঃ যে কোন ব্যাবহারিক খাতায় লিখলেই হবে। জমাদানের সময়ঃ - আগামী ২১\/০১\/২৬ থেকে ১০\/০২\/২৬। জমা দিয়ে সাইন করে যাবে নিশ্চয়ই। \n\n\n  বিঃ দ্রঃ ব্যাবহারিক পরীক্ষা না দিলে বা খাতা না দেখালে, মূল পরীক্ষায় অংশগ্রহণ করলেও কোন নম্বর যুক্ত হবে না। পরীক্ষার তারিখ ও সময় যে কোন সময় পরিবর্তন হইতে পারে। \nlink - https:\/\/shorturl.at\/IfsX5",
+      "likes" : 42,
+      "postId" : "post_8",
+      "tags" : [
+        "Practical"
+      ],
+      "teacherName" : "Md. Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-01-18 14:11:07",
+      "title" : "ICT Practical ( TEST EXAM-2026)"
+    },
+    {
+      "comments" : [
+        {
+          "authorName" : "DILSHAD SULTANA RAISA",
+          "content" : "okk Sir ",
+          "id" : "1090302025OTHM2004",
+          "likes" : 0,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-06 15:17:59"
+        },
+        {
+          "authorName" : "Shibbir Hossen",
+          "content" : "eita kintu 3 dept. er jonnoi. ( bangla, eng, political science)",
+          "id" : "comment_1767717316362",
+          "likes" : 11,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-06 16:35:16"
+        },
+        {
+          "authorName" : "TAHMINA AKTER",
+          "content" : "Thik ache sir.but joma deyar last date kobe",
+          "id" : "1090302028OTHD57",
+          "likes" : 0,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-06 23:39:48"
+        },
+        {
+          "authorName" : "SADIA AKTER ANTORA",
+          "content" : "sir amra ICT kon Book kinbo?? ",
+          "id" : "1090302025OTHD1071",
+          "likes" : 0,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-08 15:59:58"
+        },
+        {
+          "authorName" : "FARIHA KHANAM",
+          "content" : "ok sir",
+          "id" : "1090302025HUMD2009",
+          "likes" : 0,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-09 10:32:01"
+        },
+        {
+          "authorName" : "Shibbir Hossen",
+          "content" : "milestone prokashoni",
+          "id" : "comment_1768142773601",
+          "likes" : 3,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-11 14:46:13"
+        },
+        {
+          "authorName" : "TASFIA TAJRIAN HRIDITA ",
+          "content" : "আগামীকাল কি আমাদের ক্লাস হবে?",
+          "id" : "1090302025SCID37",
+          "likes" : 0,
+          "postId" : "post_6",
+          "timestamp" : "2026-01-12 22:28:38"
+        }
+      ],
+      "content" : "(১) ICT কী? ICT উপকারীতা ও অপকারিতা ব্যাখ্যা কর।\n\n(২) শিক্ষা ক্ষেত্রে ও চাকরি ক্ষেত্রে আইসিটির প্রয়োজনীয়তা লেখ।\n\n(৩) ডাটা এবং ইনফরমেশনের পার্থক্য লিখ।\n\n(৪) কম্পিউটারের প্রকারভেদ (মিনি কম্পিউটার, মাইক্রো কম্পিউটার, সুপার কম্পিউটার)\n\n(৫) একটি কম্পিউটারের প্রধান অংশ (Component) ব্যাখ্যা কর— (i) Input \/ Output (ii) Memory (iii) CPU \n\n(৬) Hardware কাকে বলে?\n\n(৭) Software কাকে বলে? বিভিন্ন ধরনের সফটওয়্যার ব্যাখ্যা কর ( ১। সিস্টেম ২। আপ্লিকেশন) \n\n(৮) OCR-এর পূর্ণরূপ কী?\n\n(৯) RAM এবং ROM-এর পার্থক্য লিখ।\n\n(১০) Primary Memory vs Secondary Memory পার্থক্য লিখ? উদাহরণসহ।\n\n(১১) অপারেটিং সিস্টেম কী? অপারেটিং সিস্টেমের কাজ কী?\n\nনোট- জমাদানের তারিখ ( ১৩\/০১\/২০২৬ ) ",
+      "likes" : 11,
+      "postId" : "post_6",
+      "tags" : [
+        "honors_assignments"
+      ],
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-01-06 04:48:57",
+      "title" : "অনার্স ১ম বর্ষ, Assignment- 1"
+    },
+    {
+      "comments" : [
+        {
+          "authorName" : "MARIAM MUNTAHA ",
+          "content" : "👍",
+          "id" : "1090302027SCIM66",
+          "likes" : 12,
+          "postId" : "post_1",
+          "timestamp" : "2025-12-13 13:27:48"
+        },
+        {
+          "authorName" : "KAZI JANNATUN NUR ",
+          "content" : "👍",
+          "id" : "1090302027HUMD1",
+          "likes" : 81,
+          "postId" : "post_1",
+          "timestamp" : "2025-12-15 11:27:05"
+        },
+        {
+          "authorName" : "SHAIRA ISLAM ",
+          "content" : "👍👍",
+          "id" : "1090302025121363",
+          "likes" : 2,
+          "postId" : "post_1",
+          "timestamp" : "2026-01-23 13:51:59"
+        }
+      ],
+      "content" : "A new HTML editor is included in our app. To get the latest update, please update our app.",
+      "likes" : 46,
+      "postId" : "post_1",
+      "tags" : [
+        "App"
+      ],
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-01-05 04:00:01",
+      "title" : "Update App"
+    }
+  ]
 }
