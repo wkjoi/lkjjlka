@@ -1,100 +1,94 @@
 {
-  "teachers" : [
+  "teachers": [
     {
-      "college_name" : "kaya golahat school and college ",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "125250",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
-      "mobileNo" : "01402046833",
-      "name" : "sazu",
-      "teacher_id" : "12525001402046833"
+      "college_name": "TCTGC",
+      "created_model_tests": [],
+      "eiin": "114678",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01754052393",
+      "name": "Joti",
+      "teacher_id": "11467801754052393"
     },
     {
-      "college_name" : "Mohila college ",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "123456",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
-      "mobileNo" : "01423658236",
-      "name" : "jarin",
-      "teacher_id" : "12345601423658236"
+      "college_name": "kaya golahat school and college ",
+      "created_model_tests": [],
+      "eiin": "125250",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01402046833",
+      "name": "sazu",
+      "teacher_id": "12525001402046833"
     },
     {
-      "college_name" : "Gazipur government mohila college ",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "216515",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
-      "mobileNo" : "01933930713",
-      "name" : "Maliha Akter ",
-      "teacher_id" : "21651501933930713"
+      "college_name": "Mohila college ",
+      "created_model_tests": [],
+      "eiin": "123456",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01423658236",
+      "name": "jarin",
+      "teacher_id": "12345601423658236"
     },
     {
-      "college_name" : "Gazipur Govt. Mohila College, Gazipur",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "109030",
-      "is_notification_feature_enabled" : true,
-      "is_post_feature_enabled" : true,
-      "mobileNo" : "01738297102",
-      "name" : "Shibbir Hossen",
-      "teacher_id" : "10903001738297102"
+      "college_name": "Gazipur government mohila college ",
+      "created_model_tests": [],
+      "eiin": "216515",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01933930713",
+      "name": "Maliha Akter ",
+      "teacher_id": "21651501933930713"
     },
     {
-      "college_name" : "Gazipur Govt Mohila College",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "109030",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
-      "mobileNo" : "01754052393",
-      "name" : "Md. Shibbir Hossen",
-      "teacher_id" : "10903001754052393"
+      "college_name": "Gazipur Govt. Mohila College, Gazipur",
+      "created_model_tests": [],
+      "eiin": "109030",
+      "is_notification_feature_enabled": true,
+      "is_post_feature_enabled": true,
+      "mobileNo": "01738297102",
+      "name": "Shibbir Hossen",
+      "teacher_id": "10903001738297102"
     },
     {
-      "college_name" : "Gaziput Govt. Mohila College",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "109030",
-      "is_notification_feature_enabled" : true,
-      "is_post_feature_enabled" : true,
-      "mobileNo" : "01551816013",
-      "name" : "Md. Shibbir Hossen",
-      "teacher_id" : "10903001551816013"
+      "college_name": "Gazipur Govt Mohila College",
+      "created_model_tests": [],
+      "eiin": "109030",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01754052393",
+      "name": "Md. Shibbir Hossen",
+      "teacher_id": "10903001754052393"
     },
     {
-      "college_name" : "Tangail Collectrorate Girl's College ",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "114678",
-      "is_notification_feature_enabled" : true,
-      "is_post_feature_enabled" : true,
-      "mobileNo" : "01713819046",
-      "name" : "Mahadi Hasan",
-      "teacher_id" : "11467801713819046"
+      "college_name": "Gaziput Govt. Mohila College",
+      "created_model_tests": [],
+      "eiin": "109030",
+      "is_notification_feature_enabled": true,
+      "is_post_feature_enabled": true,
+      "mobileNo": "01551816013",
+      "name": "Md. Shibbir Hossen",
+      "teacher_id": "10903001551816013"
     },
     {
-      "college_name" : "Tangail Vibkandrra college",
-      "created_model_tests" : [
-
-      ],
-      "eiin" : "114679",
-      "is_notification_feature_enabled" : false,
-      "is_post_feature_enabled" : false,
-      "mobileNo" : "01754052393",
-      "name" : "Sharmeen",
-      "teacher_id" : "11467901754052393"
+      "college_name": "Tangail Collectrorate Girl\u0027s College ",
+      "created_model_tests": [],
+      "eiin": "114678",
+      "is_notification_feature_enabled": true,
+      "is_post_feature_enabled": true,
+      "mobileNo": "01713819046",
+      "name": "Mahadi Hasan",
+      "teacher_id": "11467801713819046"
+    },
+    {
+      "college_name": "Tangail Vibkandrra college",
+      "created_model_tests": [],
+      "eiin": "114679",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01754052393",
+      "name": "Sharmeen",
+      "teacher_id": "11467901754052393"
     }
   ]
 }
