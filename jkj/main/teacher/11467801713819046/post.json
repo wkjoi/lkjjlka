@@ -4,6 +4,20 @@
     {
       "teacherProfilePic": "default_url",
       "teacherName": "Mahadi Hasan",
+      "comments": [],
+      "content": "Delete notification",
+      "postId": "post_4",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "noti"
+      ],
+      "timestamp": "2026-03-06 23:33:46",
+      "title": "Test"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Mahadi Hasan",
       "comments": [
         {
           "authorAvatar": null,
