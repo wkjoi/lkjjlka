@@ -1,0 +1,20 @@
+{
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Joti Madam",
+      "comments": [],
+      "content": "Test noti",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "ntoif"
+      ],
+      "timestamp": "2026-03-07 00:03:47",
+      "title": "Test"
+    }
+  ],
+  "status": "success"
+}
