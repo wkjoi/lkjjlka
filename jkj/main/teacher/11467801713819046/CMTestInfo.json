@@ -330,21 +330,6 @@
           "test_name": "তৃতীয় অধ্যায়",
           "total_questions": 50,
           "validity_time_minutes": 50
-        },
-        {
-          "access_pin": null,
-          "chapter_name": "4",
-          "difficulty": "All",
-          "is_allowed": false,
-          "is_pin_protected": false,
-          "last_date": "2026-02-07",
-          "model_test_id": "75",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "চতুর্থ অধ্যায়",
-          "total_questions": 50,
-          "validity_time_minutes": 50
         }
       ],
       "eiin": "114678",
