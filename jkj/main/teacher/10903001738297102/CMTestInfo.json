@@ -1,211 +1,302 @@
 {
-  "teachers": [
+  "teachers" : [
     {
-      "college_name": "Gazipur Govt. Mohila College, Gazipur",
-      "created_model_tests": [
+      "college_name" : "Gazipur Govt. Mohila College, Gazipur",
+      "created_model_tests" : [
         {
-          "access_pin": "626298",
-          "chapter_name": "5",
-          "difficulty": "medium",
-          "is_allowed": false,
-          "is_pin_protected": true,
-          "last_date": "2026-01-15",
-          "model_test_id": "68",
-          "participants": [
+          "access_pin" : "626298",
+          "chapter_name" : "5",
+          "difficulty" : "medium",
+          "is_allowed" : false,
+          "is_pin_protected" : true,
+          "last_date" : "2026-01-15",
+          "model_test_id" : "68",
+          "participants" : [
             {
-              "accuracy_rate": 0,
-              "eiin": "109030",
-              "score": 0,
-              "student_id": "1090302026BUSD360",
-              "student_name": "SANJARA ISLAM ANANNA",
-              "submitted_on": "2026-01-08 14:47",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 0,
+              "eiin" : "109030",
+              "score" : 0,
+              "student_id" : "1090302026BUSD360",
+              "student_name" : "SANJARA ISLAM ANANNA",
+              "submitted_on" : "2026-01-08 14:47",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 100,
-              "eiin": "109030",
-              "score": 25,
-              "student_id": "1090302026233",
-              "student_name": "TASMIA RIM ",
-              "submitted_on": "2026-01-08 14:54",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 100,
+              "eiin" : "109030",
+              "score" : 25,
+              "student_id" : "1090302026233",
+              "student_name" : "TASMIA RIM ",
+              "submitted_on" : "2026-01-08 14:54",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 80,
-              "eiin": "109030",
-              "score": 20,
-              "student_id": "10903020260099",
-              "student_name": "SADIRA JAHAN TAKFY",
-              "submitted_on": "2026-01-08 14:53",
-              "time_taken_min": 12,
-              "total_marks": 25
+              "accuracy_rate" : 80,
+              "eiin" : "109030",
+              "score" : 20,
+              "student_id" : "10903020260099",
+              "student_name" : "SADIRA JAHAN TAKFY",
+              "submitted_on" : "2026-01-08 14:53",
+              "time_taken_min" : 12,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 84,
-              "eiin": "109030",
-              "score": 21,
-              "student_id": "1090302026235",
-              "student_name": "MOUMITA AKTER",
-              "submitted_on": "2026-01-08 14:54",
-              "time_taken_min": 4,
-              "total_marks": 25
+              "accuracy_rate" : 84,
+              "eiin" : "109030",
+              "score" : 21,
+              "student_id" : "1090302026235",
+              "student_name" : "MOUMITA AKTER",
+              "submitted_on" : "2026-01-08 14:54",
+              "time_taken_min" : 4,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 80,
-              "eiin": "109030",
-              "score": 20,
-              "student_id": "1090302026HUMD100",
-              "student_name": "NOOR",
-              "submitted_on": "2026-01-08 14:54",
-              "time_taken_min": 11,
-              "total_marks": 25
+              "accuracy_rate" : 80,
+              "eiin" : "109030",
+              "score" : 20,
+              "student_id" : "1090302026HUMD100",
+              "student_name" : "NOOR",
+              "submitted_on" : "2026-01-08 14:54",
+              "time_taken_min" : 11,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 84,
-              "eiin": "109030",
-              "score": 21,
-              "student_id": "1090302025HUMD56",
-              "student_name": "UMMAY HABIBA NIHA",
-              "submitted_on": "2026-01-08 14:54",
-              "time_taken_min": 10,
-              "total_marks": 25
+              "accuracy_rate" : 84,
+              "eiin" : "109030",
+              "score" : 21,
+              "student_id" : "1090302025HUMD56",
+              "student_name" : "UMMAY HABIBA NIHA",
+              "submitted_on" : "2026-01-08 14:54",
+              "time_taken_min" : 10,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 68,
-              "eiin": "109030",
-              "score": 17,
-              "student_id": "1090302026HUMD53",
-              "student_name": "DIPASMDIPA@GMAIL.COM",
-              "submitted_on": "2026-01-08 14:54",
-              "time_taken_min": 12,
-              "total_marks": 25
+              "accuracy_rate" : 68,
+              "eiin" : "109030",
+              "score" : 17,
+              "student_id" : "1090302026HUMD53",
+              "student_name" : "DIPASMDIPA@GMAIL.COM",
+              "submitted_on" : "2026-01-08 14:54",
+              "time_taken_min" : 12,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 60,
-              "eiin": "109030",
-              "score": 15,
-              "student_id": "1090302026BUSD234",
-              "student_name": "FARIASULTANARITIKA ",
-              "submitted_on": "2026-01-08 14:55",
-              "time_taken_min": 11,
-              "total_marks": 25
+              "accuracy_rate" : 60,
+              "eiin" : "109030",
+              "score" : 15,
+              "student_id" : "1090302026BUSD234",
+              "student_name" : "FARIASULTANARITIKA ",
+              "submitted_on" : "2026-01-08 14:55",
+              "time_taken_min" : 11,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 36,
-              "eiin": "109030",
-              "score": 9,
-              "student_id": "109030202560",
-              "student_name": "MOSA.AFRINAKTER",
-              "submitted_on": "2026-01-08 14:59",
-              "time_taken_min": 14,
-              "total_marks": 25
+              "accuracy_rate" : 36,
+              "eiin" : "109030",
+              "score" : 9,
+              "student_id" : "109030202560",
+              "student_name" : "MOSA.AFRINAKTER",
+              "submitted_on" : "2026-01-08 14:59",
+              "time_taken_min" : 14,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 56,
-              "eiin": "109030",
-              "score": 14,
-              "student_id": "1090302026HUMD376",
-              "student_name": "SURAIYA",
-              "submitted_on": "2026-01-08 15:01",
-              "time_taken_min": 3,
-              "total_marks": 25
+              "accuracy_rate" : 56,
+              "eiin" : "109030",
+              "score" : 14,
+              "student_id" : "1090302026HUMD376",
+              "student_name" : "SURAIYA",
+              "submitted_on" : "2026-01-08 15:01",
+              "time_taken_min" : 3,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 92,
-              "eiin": "109030",
-              "score": 23,
-              "student_id": "1090302026118",
-              "student_name": "MARJAN SHATHI ",
-              "submitted_on": "2026-01-08 15:02",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 92,
+              "eiin" : "109030",
+              "score" : 23,
+              "student_id" : "1090302026118",
+              "student_name" : "MARJAN SHATHI ",
+              "submitted_on" : "2026-01-08 15:02",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 88,
-              "eiin": "109030",
-              "score": 22,
-              "student_id": "1090302026SCID115",
-              "student_name": "TUYA",
-              "submitted_on": "2026-01-08 15:03",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 88,
+              "eiin" : "109030",
+              "score" : 22,
+              "student_id" : "1090302026SCID115",
+              "student_name" : "TUYA",
+              "submitted_on" : "2026-01-08 15:03",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 96,
-              "eiin": "109030",
-              "score": 24,
-              "student_id": "1090302026338",
-              "student_name": "SARMIN AKTAR MONA",
-              "submitted_on": "2026-01-08 15:03",
-              "time_taken_min": 2,
-              "total_marks": 25
+              "accuracy_rate" : 96,
+              "eiin" : "109030",
+              "score" : 24,
+              "student_id" : "1090302026338",
+              "student_name" : "SARMIN AKTAR MONA",
+              "submitted_on" : "2026-01-08 15:03",
+              "time_taken_min" : 2,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 92,
-              "eiin": "109030",
-              "score": 23,
-              "student_id": "1090302026110",
-              "student_name": "SAMIA SULTANA PUSPO",
-              "submitted_on": "2026-01-08 15:04",
-              "time_taken_min": 3,
-              "total_marks": 25
+              "accuracy_rate" : 92,
+              "eiin" : "109030",
+              "score" : 23,
+              "student_id" : "1090302026110",
+              "student_name" : "SAMIA SULTANA PUSPO",
+              "submitted_on" : "2026-01-08 15:04",
+              "time_taken_min" : 3,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 84,
-              "eiin": "109030",
-              "score": 21,
-              "student_id": "1090302026HUMD318",
-              "student_name": "RASHIDA AKTER",
-              "submitted_on": "2026-01-08 15:05",
-              "time_taken_min": 17,
-              "total_marks": 25
+              "accuracy_rate" : 84,
+              "eiin" : "109030",
+              "score" : 21,
+              "student_id" : "1090302026HUMD318",
+              "student_name" : "RASHIDA AKTER",
+              "submitted_on" : "2026-01-08 15:05",
+              "time_taken_min" : 17,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 96,
-              "eiin": "109030",
-              "score": 24,
-              "student_id": "1090302026SCID63",
-              "student_name": "AYESHA AKTER",
-              "submitted_on": "2026-01-08 15:06",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 96,
+              "eiin" : "109030",
+              "score" : 24,
+              "student_id" : "1090302026SCID63",
+              "student_name" : "AYESHA AKTER",
+              "submitted_on" : "2026-01-08 15:06",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 100,
-              "eiin": "109030",
-              "score": 25,
-              "student_id": "1090302026SCID125",
-              "student_name": "JARIN TASNIM MIM",
-              "submitted_on": "2026-01-08 16:12",
-              "time_taken_min": 2,
-              "total_marks": 25
+              "accuracy_rate" : 100,
+              "eiin" : "109030",
+              "score" : 25,
+              "student_id" : "1090302026SCID125",
+              "student_name" : "JARIN TASNIM MIM",
+              "submitted_on" : "2026-01-08 16:12",
+              "time_taken_min" : 2,
+              "total_marks" : 25
             },
             {
-              "accuracy_rate": 80,
-              "eiin": "109030",
-              "score": 20,
-              "student_id": "1090302026SCIM117",
-              "student_name": "SADIA MEHNAJ",
-              "submitted_on": "2026-01-08 23:22",
-              "time_taken_min": 1,
-              "total_marks": 25
+              "accuracy_rate" : 80,
+              "eiin" : "109030",
+              "score" : 20,
+              "student_id" : "1090302026SCIM117",
+              "student_name" : "SADIA MEHNAJ",
+              "submitted_on" : "2026-01-08 23:22",
+              "time_taken_min" : 1,
+              "total_marks" : 25
             }
           ],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "Shibbir_private_5th",
-          "total_questions": 25,
-          "validity_time_minutes": 25
+          "selected_student_ids" : [
+
+          ],
+          "test_name" : "Shibbir_private_5th",
+          "total_questions" : 25,
+          "validity_time_minutes" : 25
+        },
+        {
+          "access_pin" : "714126",
+          "chapter_name" : "1 + 2",
+          "difficulty" : "easy",
+          "is_allowed" : false,
+          "is_pin_protected" : true,
+          "last_date" : "2026-04-11",
+          "mcqs" : [
+            {
+              "answer" : "গ) বায়োমেট্রিক্স",
+              "chapterId" : "1",
+              "id" : 7,
+              "imageUrl" : "",
+              "level" : "easy",
+              "options" : [
+                "ক) ন্যানটেকনোলজি",
+                "খ) জেনেটিক ইঞ্জিনিয়ারিং",
+                "গ) বায়োমেট্রিক্স",
+                "ঘ) বায়োইনফরমেটিক্স"
+              ],
+              "question" : "বৈশিষ্ট্য অনুযায়ী জীবকে শনাক্তকরণের প্রযুক্তি কোনটি?"
+            },
+            {
+              "answer" : "ক) -41°C থেকে -196°C",
+              "chapterId" : "1",
+              "id" : 15,
+              "imageUrl" : "",
+              "level" : "medium",
+              "options" : [
+                "ক) -41°C থেকে -196°C",
+                "খ) -31°C থেকে -186°C",
+                "গ) -21°C থেকে -176°C",
+                "ঘ) 0°C থেকে -100°C"
+              ],
+              "question" : "কোন তাপমাত্রার কোষে অক্সিজেন সরবরাহ বন্ধ হয়ে যায়?"
+            },
+            {
+              "answer" : "ঘ) সুইজারল্যান্ড",
+              "chapterId" : "1",
+              "id" : 18,
+              "imageUrl" : "",
+              "level" : "easy",
+              "options" : [
+                "ক) ইটালি",
+                "খ) আমেরিকা",
+                "গ) ইংল্যান্ড",
+                "ঘ) সুইজারল্যান্ড"
+              ],
+              "question" : "CERN কোথায় অবস্থিত?"
+            },
+            {
+              "answer" : "ক) ক্লাউড কম্পিউটিং",
+              "chapterId" : "1",
+              "id" : 34,
+              "imageUrl" : "",
+              "level" : "medium",
+              "options" : [
+                "ক) ক্লাউড কম্পিউটিং",
+                "খ) ওয়াই-ফাই",
+                "গ) ওয়াই-ম্যাক্স",
+                "ঘ) ব্লুটুথ"
+              ],
+              "question" : "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n উদ্দীপকের সার্ভিসটির নাম কী?"
+            },
+            {
+              "answer" : "খ) ii, iii",
+              "chapterId" : "1",
+              "id" : 35,
+              "imageUrl" : "",
+              "level" : "hard",
+              "options" : [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "question" : "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n সার্ভিসটির ক্ষেত্রে—\ni) ব্যবহারে অতিরিক্ত মূল্য দিতে হয় \nii) কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডেটা নিয়ন্ত্রণ\niii) রক্ষণাবেক্ষণের খরচ নেই"
+            }
+          ],
+          "model_test_id" : "75",
+          "participants" : [
+
+          ],
+          "selected_student_ids" : [
+
+          ],
+          "test_name" : "Shibbir_test",
+          "total_questions" : 5,
+          "validity_time_minutes" : 5
         }
       ],
-      "eiin": "109030",
-      "is_notification_feature_enabled": true,
-      "is_post_feature_enabled": true,
-      "mobileNo": "01738297102",
-      "name": "Shibbir Hossen",
-      "teacher_id": "10903001738297102"
+      "eiin" : "109030",
+      "is_notification_feature_enabled" : true,
+      "is_post_feature_enabled" : true,
+      "mobileNo" : "01738297102",
+      "name" : "Shibbir Hossen",
+      "teacher_id" : "10903001738297102"
     }
   ]
 }
