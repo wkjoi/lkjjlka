@@ -8,7 +8,16 @@
             "timestamp": "2026-04-05 08:22:56",
             "teacherProfilePic": "default_url",
             "likes": 7,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302026HUMD157",
+                    "postId": "post_16",
+                    "authorName": "SABRIN AKTER SABIHA",
+                    "content": "sir 2025 naki 2026",
+                    "timestamp": "2026-04-05 22:00:52",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_15",
