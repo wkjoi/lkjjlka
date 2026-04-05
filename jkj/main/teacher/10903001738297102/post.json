@@ -7,17 +7,8 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-04-05 08:22:56",
             "teacherProfilePic": "default_url",
-            "likes": 4,
-            "comments": [
-                {
-                    "id": "1090302027266",
-                    "postId": "post_16",
-                    "authorName": "FATEMA TUZ ZAHARA ",
-                    "content": "আর বরণ!!🫠",
-                    "timestamp": "2026-04-05 19:23:38",
-                    "likes": 0
-                }
-            ]
+            "likes": 5,
+            "comments": []
         },
         {
             "postId": "post_15",
