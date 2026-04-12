@@ -8,7 +8,16 @@
             "timestamp": "2026-04-12 10:44:13",
             "teacherProfilePic": "default_url",
             "likes": 1,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027HUMD1",
+                    "postId": "post_17",
+                    "authorName": "KAZI JANNATUN NUR ",
+                    "content": "shati ammu ba bon k niwa jbe 🥹 nki ekai jaite hbe?",
+                    "timestamp": "2026-04-12 19:25:35",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_16",
