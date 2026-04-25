@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-04-25 06:09:17",
             "teacherProfilePic": "default_url",
-            "likes": 27,
+            "likes": 28,
             "comments": [
                 {
                     "id": "1090302025121363",
@@ -87,14 +87,6 @@
                     "authorName": "PUJA CHAKRABORTY ",
                     "content": "Tnx sir ",
                     "timestamp": "2026-04-25 20:05:40",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027184",
-                    "postId": "post_20",
-                    "authorName": "MOHUA AFRIN",
-                    "content": "Sir ager ber app pore common pore nai😓💔",
-                    "timestamp": "2026-04-25 20:39:40",
                     "likes": 0
                 }
             ]
