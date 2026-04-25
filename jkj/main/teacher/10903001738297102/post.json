@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-04-25 06:09:17",
             "teacherProfilePic": "default_url",
-            "likes": 105,
+            "likes": 102,
             "comments": [
                 {
                     "id": "1090302025121363",
@@ -31,7 +31,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "cq এর বিষয় ক্লাস e ja ja বলছি",
                     "timestamp": "2026-04-25 09:42:11",
-                    "likes": 5
+                    "likes": 3
                 },
                 {
                     "id": "1090302027HUMD53",
@@ -80,6 +80,14 @@
                     "content": "class e ki ki cq bolsen ??kosto kore ektu bolen",
                     "timestamp": "2026-04-25 19:01:05",
                     "likes": 1
+                },
+                {
+                    "id": "1090302027BUSD124",
+                    "postId": "post_20",
+                    "authorName": "MIM",
+                    "content": "ekhane sudhu babu Hobe na Boro babu hobe",
+                    "timestamp": "2026-04-25 21:29:23",
+                    "likes": 0
                 }
             ]
         },
