@@ -1,0 +1,13 @@
+{
+  "teachers": [
+    {
+      "college_name": "Khilgaon govt. College",
+      "created_model_tests": [],
+      "eiin": "108376",
+      "is_post_feature_enabled": false,
+      "mobileNo": "01943469303",
+      "name": "Munna Hosain",
+      "teacher_id": "10837601943469303"
+    }
+  ]
+}
