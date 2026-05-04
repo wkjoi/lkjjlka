@@ -8,7 +8,16 @@
             "timestamp": "2026-05-04 22:12:49",
             "teacherProfilePic": "default_url",
             "likes": 2,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302025OTHM1004",
+                    "postId": "post_21",
+                    "authorName": "JESMIN SULTANA ",
+                    "content": "ok sir",
+                    "timestamp": "2026-05-04 23:09:09",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_20",
