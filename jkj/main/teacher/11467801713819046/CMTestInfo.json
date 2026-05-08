@@ -246,21 +246,6 @@
           "validity_time_minutes": 30
         },
         {
-          "access_pin": null,
-          "chapter_name": "2",
-          "difficulty": "All",
-          "is_allowed": false,
-          "is_pin_protected": false,
-          "last_date": "2026-02-04",
-          "model_test_id": "70",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "2nd",
-          "total_questions": 25,
-          "validity_time_minutes": 25
-        },
-        {
           "access_pin": "125219",
           "chapter_name": "2",
           "difficulty": "All",
