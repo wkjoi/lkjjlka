@@ -8,7 +8,16 @@
             "timestamp": "2026-05-31 19:43:54",
             "teacherProfilePic": "default_url",
             "likes": 1,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027SCIM174",
+                    "postId": "post_22",
+                    "authorName": "HABIBA",
+                    "content": "স্যার এই লিংকে তো যাওয়া যাচ্ছে না। কি করবো?",
+                    "timestamp": "2026-05-31 20:23:54",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_21",
