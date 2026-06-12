@@ -1,6 +1,15 @@
 {
   "teachers": [
     {
+      "college_name": "গাজীপুর সরকারি মহিলা কলেজ ",
+      "created_model_tests": [],
+      "eiin": "532555",
+      "is_post_feature_enabled": false,
+      "mobileNo": "01701801355",
+      "name": "মারিয়া আক্তার জিতু ",
+      "teacher_id": "53255501701801355"
+    },
+    {
       "college_name": "Gazipur government Mohila Collage ",
       "created_model_tests": [],
       "eiin": "109030",
