@@ -8,7 +8,16 @@
             "timestamp": "2026-06-15 21:58:52",
             "teacherProfilePic": "default_url",
             "likes": 16,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302026BUSD75",
+                    "postId": "post_24",
+                    "authorName": "JANNAT TARA RAKHI",
+                    "content": "assalamu alaikum sir.. admit card jdi 21tarik dey thle ami ki seta 22 tarik nite prbo?? ",
+                    "timestamp": "2026-06-16 08:33:23",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_23",
