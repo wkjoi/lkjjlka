@@ -8,7 +8,16 @@
             "timestamp": "2026-06-26 09:55:21",
             "teacherProfilePic": "default_url",
             "likes": 3,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027HUMM55",
+                    "postId": "post_26",
+                    "authorName": "MARIYA AKTER PRIYA",
+                    "content": "sir apni ki ajk clg a ashben?koyta theke koyta porjonto clg a thakben??",
+                    "timestamp": "2026-06-29 09:04:27",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_25",
