@@ -8,7 +8,16 @@
             "timestamp": "2026-07-11 22:38:43",
             "teacherProfilePic": "default_url",
             "likes": 3,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027HUMD112",
+                    "postId": "post_27",
+                    "authorName": "AFSANA PARVIN SUMA",
+                    "content": "239910",
+                    "timestamp": "2026-07-11 22:48:39",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_24",
