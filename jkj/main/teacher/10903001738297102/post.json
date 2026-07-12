@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-07-11 22:38:43",
             "teacherProfilePic": "default_url",
-            "likes": 6,
+            "likes": 5,
             "comments": [
                 {
                     "id": "1090302027HUMD112",
@@ -23,6 +23,14 @@
                     "authorName": "Shibbir Hossen",
                     "content": "sorry Suma, তুমি ড্যাশবোর্ড এ যাও। ওখানে তোমার প্রোফাইল এর যাও। দেখবা লিখা আছে \"কলেজের পরীক্ষার ফলাফল দেখুন\" । লগআউট বাটন এর আগে।\nওইখানে টেপ করলে এই আইডি দিলেই আসবে",
                     "timestamp": "2026-07-11 23:10:48",
+                    "likes": 0
+                },
+                {
+                    "id": "1090302027HUMD72",
+                    "postId": "post_27",
+                    "authorName": "AYESHA AKTER",
+                    "content": "sir amr sudhu 1st term er result ashe. final er result ashe na.",
+                    "timestamp": "2026-07-12 11:06:40",
                     "likes": 0
                 }
             ]
