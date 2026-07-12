@@ -8,7 +8,16 @@
             "timestamp": "2026-07-12 12:20:57",
             "teacherProfilePic": "default_url",
             "likes": 16,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302027HUMD270",
+                    "postId": "post_28",
+                    "authorName": "RAMISA ISLAM TANISHA",
+                    "content": "kothai deowa hobe sir?",
+                    "timestamp": "2026-07-12 13:09:44",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_27",
