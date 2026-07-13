@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-07-12 12:20:57",
             "teacherProfilePic": "default_url",
-            "likes": 86,
+            "likes": 85,
             "comments": [
                 {
                     "id": "1090302027HUMD270",
@@ -79,7 +79,7 @@
                     "authorName": "JANNAT",
                     "content": "3 bisoye fail korle uthabe nh?",
                     "timestamp": "2026-07-12 16:02:03",
-                    "likes": 839
+                    "likes": 841
                 },
                 {
                     "id": "1090302027SCIM284",
@@ -183,6 +183,14 @@
                     "authorName": "MIMYEA ISLAM MEGHLA",
                     "content": "sir optional subj er fail ki count hoy?",
                     "timestamp": "2026-07-13 10:41:40",
+                    "likes": 0
+                },
+                {
+                    "id": "1090302027BUSM3",
+                    "postId": "post_28",
+                    "authorName": "TISHA ",
+                    "content": "sir kokhon janano hobe?",
+                    "timestamp": "2026-07-13 11:29:28",
                     "likes": 0
                 }
             ]
