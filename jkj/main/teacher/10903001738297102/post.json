@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-07-12 12:20:57",
             "teacherProfilePic": "default_url",
-            "likes": 85,
+            "likes": 86,
             "comments": [
                 {
                     "id": "1090302027HUMD270",
@@ -15,7 +15,7 @@
                     "authorName": "RAMISA ISLAM TANISHA",
                     "content": "kothai deowa hobe sir?",
                     "timestamp": "2026-07-12 13:09:44",
-                    "likes": 28
+                    "likes": 22
                 },
                 {
                     "id": "1090302027HUMM44",
@@ -31,7 +31,7 @@
                     "authorName": "TASNIM",
                     "content": "..",
                     "timestamp": "2026-07-12 13:57:24",
-                    "likes": 2
+                    "likes": 0
                 },
                 {
                     "id": "1090302027BUSM129",
@@ -79,7 +79,7 @@
                     "authorName": "JANNAT",
                     "content": "3 bisoye fail korle uthabe nh?",
                     "timestamp": "2026-07-12 16:02:03",
-                    "likes": 841
+                    "likes": 826
                 },
                 {
                     "id": "1090302027SCIM284",
@@ -103,7 +103,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "লিস্ট কলেজ আজকে dey nai।\nকোন বিষয়ের রেজাল্ট নাই, মানে তুমি absent. রাহাত স্যার এর কাছে কথা বল. \nআইসিটি তে 33 এ পাস. কিন্তু cq তে 17 পাইতে হবে. ",
                     "timestamp": "2026-07-12 20:05:35",
-                    "likes": 10
+                    "likes": 9
                 },
                 {
                     "id": "1090302027BUSM251",
@@ -127,7 +127,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "যারা 3 4 সাবজেক্ট এ ফেইল, tara Rahad sir er loge kotha bolte hobe.\nKalke 1:00 tay ashle sir ke paite paro.\n\n+880 17 1575 9906 Rahad Sir",
                     "timestamp": "2026-07-12 21:11:56",
-                    "likes": 4
+                    "likes": 1
                 },
                 {
                     "id": "1090302027SCID331",
@@ -167,7 +167,7 @@
                     "authorName": "AYESHA AFRIN PROVA",
                     "content": "kokhn??? ",
                     "timestamp": "2026-07-13 06:31:24",
-                    "likes": 2
+                    "likes": 1
                 },
                 {
                     "id": "1090302027BUSD21",
@@ -175,39 +175,7 @@
                     "authorName": "MEHJABIN AKTER MISU",
                     "content": "sir kokhn diben ",
                     "timestamp": "2026-07-13 08:18:23",
-                    "likes": 3
-                },
-                {
-                    "id": "1090302027BUSD319",
-                    "postId": "post_28",
-                    "authorName": "MIMYEA ISLAM MEGHLA",
-                    "content": "sir optional subj er fail ki count hoy?",
-                    "timestamp": "2026-07-13 10:41:40",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027BUSM3",
-                    "postId": "post_28",
-                    "authorName": "TISHA ",
-                    "content": "sir kokhon janano hobe?",
-                    "timestamp": "2026-07-13 11:29:28",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027SCID28",
-                    "postId": "post_28",
-                    "authorName": "MST MARIA",
-                    "content": "sir ahono ashe nai to",
-                    "timestamp": "2026-07-13 11:53:27",
-                    "likes": 0
-                },
-                {
-                    "id": "1090302027BUSM121588",
-                    "postId": "post_28",
-                    "authorName": "SHUKRETI MONDAL PREETI",
-                    "content": "sir kokhon janaben talika ta ?",
-                    "timestamp": "2026-07-13 12:19:34",
-                    "likes": 0
+                    "likes": 2
                 }
             ]
         },
