@@ -15,7 +15,7 @@
                     "authorName": "RAMISA ISLAM TANISHA",
                     "content": "kothai deowa hobe sir?",
                     "timestamp": "2026-07-12 13:09:44",
-                    "likes": 16
+                    "likes": 9
                 },
                 {
                     "id": "1090302027HUMM44",
@@ -23,7 +23,7 @@
                     "authorName": "TAHMINA RAHMAN ",
                     "content": "1 bisoye fail korleo ki exam dewa lagbe nki 3 bisoye jara fail korce tara dibe",
                     "timestamp": "2026-07-12 13:38:10",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "1090302027BUSD101",
@@ -31,7 +31,7 @@
                     "authorName": "TASNIM",
                     "content": "..",
                     "timestamp": "2026-07-12 13:57:24",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "1090302027BUSM129",
@@ -40,78 +40,6 @@
                     "content": "sir amr Bangla subject er results dekhai tase nh",
                     "timestamp": "2026-07-12 14:14:05",
                     "likes": 0
-                },
-                {
-                    "id": "1090302027HUMM55",
-                    "postId": "post_28",
-                    "authorName": "MARIYA AKTER PRIYA",
-                    "content": "koy bisoye fail korle abr exam dite hobe?",
-                    "timestamp": "2026-07-12 14:45:46",
-                    "likes": 5
-                },
-                {
-                    "id": "1090302027BUSD231",
-                    "postId": "post_28",
-                    "authorName": "NOSRAT JAHAN SONALI",
-                    "content": "sir kokhn diben ",
-                    "timestamp": "2026-07-12 14:55:19",
-                    "likes": 112
-                },
-                {
-                    "id": "1090302027HUMD344",
-                    "postId": "post_28",
-                    "authorName": "SHARMIN AKTER RUMANA",
-                    "content": "sir ami all bisoye pas korsi,, class merit ta kokhon dekhte parbo",
-                    "timestamp": "2026-07-12 15:10:12",
-                    "likes": 2
-                },
-                {
-                    "id": "1090302027HUMD128",
-                    "postId": "post_28",
-                    "authorName": "MAHMUDA AKTER SADIA",
-                    "content": "sir ict 38 ashleo ki fail? 40 a ki pass ",
-                    "timestamp": "2026-07-12 15:22:54",
-                    "likes": 17
-                },
-                {
-                    "id": "1090302027SCID127896",
-                    "postId": "post_28",
-                    "authorName": "JANNAT",
-                    "content": "3 bisoye fail korle uthabe nh?",
-                    "timestamp": "2026-07-12 16:02:03",
-                    "likes": 9
-                },
-                {
-                    "id": "1090302027SCIM284",
-                    "postId": "post_28",
-                    "authorName": "NAZ_SARAH",
-                    "content": "kokhn deoa Hobe? ",
-                    "timestamp": "2026-07-12 16:46:34",
-                    "likes": 1
-                },
-                {
-                    "id": "1090302026HUMD88",
-                    "postId": "post_28",
-                    "authorName": "TASFIA TASNEEM",
-                    "content": "আলহামদুলিল্লাহ ",
-                    "timestamp": "2026-07-13 23:49:50",
-                    "likes": 2
-                },
-                {
-                    "id": "1090302027BUSD324",
-                    "postId": "post_28",
-                    "authorName": "SADIA",
-                    "content": "sir jader roll nhi tara ki class korbe nh",
-                    "timestamp": "2026-07-14 08:29:05",
-                    "likes": 0
-                },
-                {
-                    "id": "comment_1",
-                    "postId": "post_28",
-                    "authorName": "Shibbir Hossen",
-                    "content": "আমি ১ টায় থাকবো কালকে। কেও যদি দেখা করতে আসো। ",
-                    "timestamp": "2026-07-14 14:18:53",
-                    "likes": 2
                 }
             ]
         },
