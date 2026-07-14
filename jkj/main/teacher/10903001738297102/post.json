@@ -7,7 +7,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-07-12 12:20:57",
             "teacherProfilePic": "default_url",
-            "likes": 127,
+            "likes": 128,
             "comments": [
                 {
                     "id": "1090302027HUMD270",
@@ -138,7 +138,7 @@
                     "authorName": "Shibbir Hossen",
                     "content": "sorry Suma, তুমি ড্যাশবোর্ড এ যাও। ওখানে তোমার প্রোফাইল এর যাও। দেখবা লিখা আছে \"কলেজের পরীক্ষার ফলাফল দেখুন\" । লগআউট বাটন এর আগে।\nওইখানে টেপ করলে এই আইডি দিলেই আসবে",
                     "timestamp": "2026-07-11 23:10:48",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "1090302027HUMD72",
@@ -227,14 +227,6 @@
                     "content": "এইটা প্রেক্তিকেল সহ। \nঅনেকে ৩৩ পাইছ, কিন্তু দেখা গেলো cq তে ১৭ পাও নাই, তারা কিন্তু ফেইল। ",
                     "timestamp": "2026-07-12 14:06:17",
                     "likes": 2
-                },
-                {
-                    "id": "1090302027BUSM280",
-                    "postId": "post_27",
-                    "authorName": "ARIFA AKTER URMI ",
-                    "content": "sir jara exam dei ni tader koronio ki",
-                    "timestamp": "2026-07-14 20:18:42",
-                    "likes": 0
                 }
             ]
         },
