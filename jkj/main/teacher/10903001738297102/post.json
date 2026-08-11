@@ -90,7 +90,7 @@
                     "authorName": "RAMISA ISLAM TANISHA",
                     "content": "kothai deowa hobe sir?",
                     "timestamp": "2026-07-12 13:09:44",
-                    "likes": 13
+                    "likes": 12
                 },
                 {
                     "id": "1090302027HUMM44",
@@ -98,7 +98,7 @@
                     "authorName": "TAHMINA RAHMAN ",
                     "content": "1 bisoye fail korleo ki exam dewa lagbe nki 3 bisoye jara fail korce tara dibe",
                     "timestamp": "2026-07-12 13:38:10",
-                    "likes": 5
+                    "likes": 0
                 },
                 {
                     "id": "1090302027BUSD101",
@@ -114,95 +114,23 @@
                     "authorName": "SANJIDA AKTER MITU",
                     "content": "sir amr Bangla subject er results dekhai tase nh",
                     "timestamp": "2026-07-12 14:14:05",
-                    "likes": 4
-                },
-                {
-                    "id": "1090302027SCID127896",
-                    "postId": "post_28",
-                    "authorName": "JANNAT",
-                    "content": "sir abar porikkhar notice ta kokhon diben",
-                    "timestamp": "2026-07-15 13:48:06",
-                    "likes": 8
-                },
-                {
-                    "id": "1090302027HUMD60",
-                    "postId": "post_28",
-                    "authorName": "MAIMUNA ANJUM",
-                    "content": "sir retake er notice ki ai app ai diben",
-                    "timestamp": "2026-07-15 15:44:59",
-                    "likes": 4
-                },
-                {
-                    "id": "comment_1",
-                    "postId": "post_28",
-                    "authorName": "Shibbir Hossen",
-                    "content": "তোমাদের আবার ২y বর্ষে ভর্তি হওয়া লাগবে। এটার নোটিশ মাসখানেক এর মাঝেই দিবে। টাকা লাগবে ৩ হাজার এর মত। ",
-                    "timestamp": "2026-07-15 21:01:51",
-                    "likes": 11
-                },
-                {
-                    "id": "1090302027SCIM222",
-                    "postId": "post_28",
-                    "authorName": "FAHIMA AKTER CHOWA",
-                    "content": "amra Jara fail korechi tader o ki ekhn 2nd year vorti hote hbe ekhn? ",
-                    "timestamp": "2026-07-18 10:04:31",
-                    "likes": 12
-                },
-                {
-                    "id": "1090302027BUSD95",
-                    "postId": "post_28",
-                    "authorName": "KHADIZA TUL DOLA",
-                    "content": "sir retake er notice kbe dibn",
-                    "timestamp": "2026-07-18 15:23:25",
-                    "likes": 1
-                },
-                {
-                    "id": "1090302027295",
-                    "postId": "post_28",
-                    "authorName": "ERIN JAMAN MAYSHA ",
-                    "content": "Sir retake er notice kothay pabo?",
-                    "timestamp": "2026-07-18 18:08:22",
-                    "likes": 1
-                },
-                {
-                    "id": "1090302027BUSD307",
-                    "postId": "post_28",
-                    "authorName": "MST.ZAKIA SULTANA",
-                    "content": "আসসালামু আলাইকুম স্যার রিটেক এক্সামের ডেট কবে? ",
-                    "timestamp": "2026-07-18 19:46:03",
-                    "likes": 2
-                },
-                {
-                    "id": "1090302027SCID331",
-                    "postId": "post_28",
-                    "authorName": "TANISHA AKTER ",
-                    "content": "স্যার যারা ফেল করছে শুধু তারাই আবার ২y বর্ষে  নতুন করে ভর্তি হতে হবে। নাকি যারা পাশ করছে তাদের ? স্যার যদি একটু clearly  বলতে ভালো হতো....",
-                    "timestamp": "2026-07-23 15:46:41",
                     "likes": 0
                 },
                 {
-                    "id": "comment_2",
+                    "id": "1090302027HUMM55",
                     "postId": "post_28",
-                    "authorName": "Shibbir Hossen",
-                    "content": "তানিশা, সবাইকে 2nd Year e ভর্তির টাকা জমা দিতে হবে. \n\nআর যারা ফেইল করছ, তোমাদের 28 তারিখ থেকে এক্সাম. অংশগ্রণ করবে অবশ্যই. ",
-                    "timestamp": "2026-07-25 13:29:54",
-                    "likes": 3
-                },
-                {
-                    "id": "1090302027SCIM179",
-                    "postId": "post_28",
-                    "authorName": "AYESHA AKTER TISHA ",
-                    "content": "ict retake er question kmn Hobe?",
-                    "timestamp": "2026-07-26 00:13:56",
+                    "authorName": "MARIYA AKTER PRIYA",
+                    "content": "koy bisoye fail korle abr exam dite hobe?",
+                    "timestamp": "2026-07-12 14:45:46",
                     "likes": 0
                 },
                 {
-                    "id": "1090302026BUSD113",
+                    "id": "1090302027BUSD231",
                     "postId": "post_28",
-                    "authorName": "SABIBA SULTANA",
-                    "content": "assalamualaikum sir, hsc26 er to exam praay sesher dike amader ict practical er date ta ektu  kosto kore janiye dile valo hoto. Thank you.",
-                    "timestamp": "2026-08-02 14:55:55",
-                    "likes": 4
+                    "authorName": "NOSRAT JAHAN SONALI",
+                    "content": "sir kokhn diben ",
+                    "timestamp": "2026-07-12 14:55:19",
+                    "likes": 0
                 }
             ]
         },
