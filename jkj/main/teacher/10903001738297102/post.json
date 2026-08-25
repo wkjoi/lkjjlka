@@ -15,7 +15,15 @@
                     "authorName": "FATEMA TUJJOHURA",
                     "content": "আসসালামু আলাইকুম স্যার আমরা আসে বসে আছি আপনি নাই",
                     "timestamp": "2026-08-25 12:05:50",
-                    "likes": 2
+                    "likes": 1
+                },
+                {
+                    "id": "1090302026SCIM803",
+                    "postId": "post_30",
+                    "authorName": "TANUSREEBARMAN803@GMAIL.COM",
+                    "content": "আসসালামু আলাইকুম স্যার,  আমাদের কি এখন ক্লাস হবে?",
+                    "timestamp": "2026-08-25 12:12:01",
+                    "likes": 0
                 }
             ]
         },
