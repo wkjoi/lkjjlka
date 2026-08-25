@@ -8,7 +8,16 @@
             "timestamp": "2026-08-24 23:31:05",
             "teacherProfilePic": "default_url",
             "likes": 31,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302026HUMM1068",
+                    "postId": "post_30",
+                    "authorName": "FATEMA TUJJOHURA",
+                    "content": "আসসালামু আলাইকুম স্যার আমরা আসে বসে আছি আপনি নাই",
+                    "timestamp": "2026-08-25 12:05:50",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_29",
