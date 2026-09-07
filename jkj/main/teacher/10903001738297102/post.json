@@ -2,6 +2,18 @@
   "posts" : [
     {
       "comments" : [
+
+      ],
+      "content" : "আইসিটি ক্লাস -11:00 টা 502 নং কক্ষে\n\nরুম খুলা না থাকলে --+880 15 2138 7281 পিয়ন",
+      "likes" : 0,
+      "postId" : "post_30",
+      "teacherName" : "Shibbir Hossen",
+      "teacherProfilePic" : "default_url",
+      "timestamp" : "2026-09-07 23:55:46",
+      "title" : "অনার্স"
+    },
+    {
+      "comments" : [
         {
           "authorName" : "MOUMITA DEBNATH ",
           "content" : "sir amder ki apni attendance signature sheet ee sign er Kotha bolsen , naki practical khata sign er Kotha bolsen.  student Ra ektu confused Hoye gese . ",
