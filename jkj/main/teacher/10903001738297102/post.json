@@ -8,7 +8,16 @@
             "timestamp": "2026-09-27 14:08:43",
             "teacherProfilePic": "default_url",
             "likes": 2,
-            "comments": []
+            "comments": [
+                {
+                    "id": "1090302025OTHD1011",
+                    "postId": "post_31",
+                    "authorName": "SIRAJUM MONIRA",
+                    "content": "Sir amra ki practical khata niye asbo? ",
+                    "timestamp": "2026-09-27 14:50:31",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_29",
