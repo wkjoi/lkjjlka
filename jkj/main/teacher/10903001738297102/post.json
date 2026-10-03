@@ -7,20 +7,11 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-10-03 21:28:06",
             "teacherProfilePic": "default_url",
-            "likes": 5,
+            "likes": 6,
             "tags": [
                 "suggestion"
             ],
-            "comments": [
-                {
-                    "id": "1090302027SCID330",
-                    "postId": "post_35",
-                    "authorName": "MST JHINUK AKTER",
-                    "content": "Thank you sir",
-                    "timestamp": "2026-10-03 22:18:30",
-                    "likes": 0
-                }
-            ]
+            "comments": []
         },
         {
             "postId": "post_34",
