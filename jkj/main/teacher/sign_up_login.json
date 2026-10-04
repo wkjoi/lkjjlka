@@ -1,6 +1,15 @@
 {
   "teachers": [
     {
+      "college_name": "gazipur government mohila college ",
+      "created_model_tests": [],
+      "eiin": "018613",
+      "is_post_feature_enabled": false,
+      "mobileNo": "25253334021",
+      "name": "Tayba",
+      "teacher_id": "01861325253334021"
+    },
+    {
       "college_name": "Kendua gob.ment college",
       "created_model_tests": [],
       "eiin": "112830",
