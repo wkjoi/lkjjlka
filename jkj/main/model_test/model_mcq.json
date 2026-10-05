@@ -1,6 +1,364 @@
 {
   "model_tests": [
   {
+    "model_test_id": "79",
+    "teacher_id": "51325601345739112",
+    "difficulty": "All",
+    "test_name": "pre test ",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2026-10-12",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "5",
+        "id": 63,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational"
+      },
+      {
+        "answer": "ঘ) ওয়াইম্যাক্স",
+        "chapterId": "2",
+        "id": 75,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ব্লুটুথ",
+          "খ) স্যাটেলাইট",
+          "গ) ওয়াইফাই",
+          "ঘ) ওয়াইম্যাক্স"
+        ],
+        "question": "নিচের কোনটি ওয়ারলেস ম্যান এর উদাহরণ?"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "5",
+        "id": 91,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 2",
+          "গ) 5",
+          "ঘ) 10"
+        ],
+        "question": "প্রোগ্রামটির আউটপুট কত? \n # include \u003cstdio.h\u003e\n main()\n {\n int a,b;\n b\u003d10;\n a\u003db%5;\n printf (“%d”, a);\n} "
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 99,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "একটি কলেজের আইসিটি শিক্ষক ল্যাবের সকল কম্পিউটারকে নেটওয়ার্কের আওতাভুক্ত করলেন। নেটওয়ার্ক স্থাপনে তিনি এক ধরনের প্যাঁচানো তার ব্যবহার করেছেন।\n নেটওয়ার্ক স্থাপনে ব্যবহৃত ক্যাবলটির বৈশিষ্ট্য হলো- i. এতে তারের সংখ্যা মোট তিন (৩) জোড়া ii. 100 মিটারের বেশি দূরত্বে ডেটা প্রেরণ করা যায় না iii. ব্যান্ডউইথ 10 Mbps থেকে 1 Gbps"
+      },
+      {
+        "answer": "ঘ) %f",
+        "chapterId": "5",
+        "id": 100,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) %d",
+          "খ) %c",
+          "গ) %if",
+          "ঘ) %f"
+        ],
+        "question": "double ডেটা টাইপের ফরমেট স্পেসিফায়ার কোনটি?"
+      },
+      {
+        "answer": "গ) নিউরাল নেটওয়ার্ক",
+        "chapterId": "1",
+        "id": 118,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ডিপ লার্নিং",
+          "খ) মেশিন লার্নিং",
+          "গ) নিউরাল নেটওয়ার্ক",
+          "ঘ) নিউরাল পাথ"
+        ],
+        "question": "মানুষের মস্তিষ্কের মতো কাজ করার পদ্ধতিকে কী বলে?"
+      },
+      {
+        "answer": "ঘ) এডার",
+        "chapterId": "3.2",
+        "id": 139,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) এনকোডার",
+          "খ) ডিকোডার",
+          "গ) ফ্লিপ-ফ্লপ",
+          "ঘ) এডার"
+        ],
+        "question": "কোন বর্তনী বাইনারি সংখ্যা যোগ করতে পারে?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "1",
+        "id": 143,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ইউনিক আইডেন্টিটি তৈরিতে ফিংগার প্রিন্ট মেশিনে আঙ্গুলের ছাপ তৈরি হয়- i. আঙ্গুলের রেকার বিন্যাসের উপর ভিত্তি করে ii. ত্বকের টিস্যুর উপর ভিত্তি করে iii. ত্বকের নিচের রক্ত সঞ্চালনের শিরার উপর ভিত্তি করে"
+      },
+      {
+        "answer": "ঘ) থিকনেট",
+        "chapterId": "2",
+        "id": 173,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) থিননেট",
+          "খ) ইউটিটি",
+          "গ) এসটিপি",
+          "ঘ) থিকনেট"
+        ],
+        "question": "10 BASE-5 নিচের কোনটি?"
+      },
+      {
+        "answer": "ঘ) ৫ম",
+        "chapterId": "2",
+        "id": 192,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) ১ম",
+          "খ) ৪র্থ",
+          "গ) ৩য়",
+          "ঘ) ৫ম"
+        ],
+        "question": "খুশি যে প্রজন্মের মোবাইল ফোন ব্যবহার করে- (Context: 4k TV support)"
+      },
+      {
+        "answer": "ক) অ্যারিথমেটিক",
+        "chapterId": "5",
+        "id": 235,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) অ্যারিথমেটিক",
+          "খ) লজিক্যাল",
+          "গ) রিলেশনাল",
+          "ঘ) অ্যাসাইনমেন্ট"
+        ],
+        "question": "সি ভাষায় \"%\" কোন ধরনের অপারেটর?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "4",
+        "id": 237,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "রাসেল সঠিক ফলাফল না পাওয়ার কারণ-\ni. ফাইলের নাম লিখতে ভুল\nii. ব্রাউজারে সাপোর্ট না করা\niii. সঠিক লোকেশন ব্যবহার না করা"
+      },
+      {
+        "answer": "খ) XOR",
+        "chapterId": "3.2",
+        "id": 238,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/Picture1.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) NAND",
+          "খ) XOR",
+          "গ) NOR",
+          "ঘ) XNOR"
+        ],
+        "question": "P এর সরলীকৃত মানের সমতুল্য গেট কোনটি?"
+      },
+      {
+        "answer": "খ. জিনোম",
+        "id": 258,
+        "level": "easy",
+        "options": [
+          "ক. জিন",
+          "খ. জিনোম",
+          "গ. নিউক্লিয়াস",
+          "ঘ. ক্রোমোজোম"
+        ],
+        "question": "জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "4",
+        "id": 273,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো-\ni. নোটপ্যাড++\t ii. সাবলাইম টেক্সট\t iii. নোটপ্যাড\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) ৫ম",
+        "chapterId": "2",
+        "id": 286,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২য়",
+          "খ) ৩য়",
+          "গ) ৪ৰ্থ",
+          "ঘ) ৫ম"
+        ],
+        "question": "কোন প্রজন্মের মোবাইল ফোনে 4K ভিডিও উপভোগ করা যায়?"
+      },
+      {
+        "answer": "খ) \u003col\u003e",
+        "chapterId": "4",
+        "id": 326,
+        "level": "easy",
+        "options": [
+          "ক) \u003cul\u003e",
+          "খ) \u003col\u003e",
+          "গ) \u003cbr\u003e",
+          "ঘ) \u003cdel\u003e"
+        ],
+        "question": "ক্রমযুক্ত তালিকা প্রকাশের জন্য ব্যবহৃত ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "খ) 7",
+        "chapterId": "6",
+        "id": 333,
+        "level": "hard",
+        "options": [
+          "ক) 6",
+          "খ) 7",
+          "গ) 25",
+          "ঘ) 49"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nint k;\nfor(k\u003d7; k\u003c49; k \u003d k+7) \nprintf(\"Exam\\n\");\n প্রোগ্রামটি রান করলে \"Exam\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "ক) Bluetooth",
+        "chapterId": "2",
+        "id": 341,
+        "level": "medium",
+        "options": [
+          "ক) Bluetooth",
+          "খ) Wifi(a)",
+          "গ) Wifi(b)",
+          "ঘ) Wimax"
+        ],
+        "question": "2.45 GHz ফ্রিকুয়েন্সির এই প্রযুক্তি কোনটি?\ni. Bluetooth\nii. Wifi(a)\niii. Wifi(b)\niv. Wimax"
+      },
+      {
+        "answer": "গ) 1245",
+        "chapterId": "5",
+        "id": 356,
+        "level": "medium",
+        "options": [
+          "ক) 11",
+          "খ) 15",
+          "গ) 1245",
+          "ঘ) 12345"
+        ],
+        "question": "প্রোগ্রামটি C ভাষায় সঠিকভাবে কম্পাইল হলে এর আউটপুটটি কী হবে?"
+      },
+      {
+        "answer": "ক) কার্প",
+        "chapterId": "1",
+        "id": 400,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) কার্প",
+          "খ) রুই",
+          "গ) বোয়াল",
+          "ঘ) ইলিশ"
+        ],
+        "question": "স্যামন মাছের জিন স্থানান্তরের মাধ্যমে কোন মাছের আকৃতি বড় করা সম্ভব হয়েছে?"
+      },
+      {
+        "answer": "গ) আপওয়ার্ক",
+        "chapterId": "4",
+        "id": 445,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ফেসবুক",
+          "খ) মাইস্পেস",
+          "গ) আপওয়ার্ক",
+          "ঘ) ভিগ"
+        ],
+        "question": "কোনটি আউটসোর্সিং এর মার্কেট প্লেস?"
+      },
+      {
+        "answer": "ঘ) i\u003d4, i\u003di+2",
+        "chapterId": "5",
+        "id": 465,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i\u003d0, i\u003di+1",
+          "খ) i\u003d2, i\u003di+1",
+          "গ) i\u003d3, i\u003di+2",
+          "ঘ) i\u003d4, i\u003di+2"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include \u003cstdio.h\u003e\nmain() {\n    int i, s \u003d 0;\n    for (i \u003d 1; i \u003c\u003d 6; i++) {\n        s \u003d s + i;\n    }\n    printf(\"%d\", s);\n}\n\nউপরের প্রোগ্রামে \"i\" এর মানের কোন কোন পরিবর্তন করলে আউটপুট 10 হবে?"
+      },
+      {
+        "answer": "গ) OLE Object",
+        "chapterId": "6",
+        "id": 474,
+        "level": "hard",
+        "options": [
+          "ক) Calculated",
+          "খ) Look up Wizard",
+          "গ) OLE Object",
+          "ঘ) Logical"
+        ],
+        "question": "ডেটা টেবিলে ইমেজ সংযোজনের জন্য কোন ধরনের ডেটা টাইপ ব্যবহার করতে হয়?"
+      },
+      {
+        "answer": "গ) ইনডেক্সিং",
+        "chapterId": "6",
+        "id": 508,
+        "level": "easy",
+        "options": [
+          "ক) কুয়েরি",
+          "খ) সর্টিং",
+          "গ) ইনডেক্সিং",
+          "ঘ) ফিল্টারিং"
+        ],
+        "question": "ডেটাবেজে রেকর্ডগুলোর ক্রম পরিবর্তন না করে শুধুমাত্র কী-ফিল্ডের উপর ভিত্তি করে সাজানোকে কী বলে?"
+      }
+    ]
+  },
+  {
     "model_test_id": "78",
     "teacher_id": "11283001832851659",
     "difficulty": "All",
