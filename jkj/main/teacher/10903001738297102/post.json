@@ -144,7 +144,7 @@
                     "authorName": "SADIA AFRIN",
                     "content": "আসসালামু আলাইকুম স্যার",
                     "timestamp": "2026-10-04 22:55:14",
-                    "likes": 7
+                    "likes": 8
                 },
                 {
                     "id": "1090302028HUMD208",
@@ -201,6 +201,14 @@
                     "content": "thik ache sor",
                     "timestamp": "2026-10-07 12:22:47",
                     "likes": 6
+                },
+                {
+                    "id": "1090302028HUMD224",
+                    "postId": "post_34",
+                    "authorName": "MARIA JOUTY",
+                    "content": "sir ami board boi kine felsi..",
+                    "timestamp": "2026-10-07 15:25:06",
+                    "likes": 0
                 }
             ]
         },
