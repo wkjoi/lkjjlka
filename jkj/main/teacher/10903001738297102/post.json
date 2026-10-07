@@ -128,7 +128,7 @@
             "teacherName": "Shibbir Hossen",
             "timestamp": "2026-10-03 19:16:45",
             "teacherProfilePic": "default_url",
-            "likes": 36,
+            "likes": 37,
             "comments": [
                 {
                     "id": "comment_1",
@@ -192,6 +192,14 @@
                     "authorName": "TISHA GHUMAITESE",
                     "content": "sir Ami to mahbubur Rahman kine felsi. kono osobidha Hobe??",
                     "timestamp": "2026-10-06 23:47:09",
+                    "likes": 0
+                },
+                {
+                    "id": "1090302026BUSD104",
+                    "postId": "post_34",
+                    "authorName": "MST SHIMU ",
+                    "content": "thik ache sor",
+                    "timestamp": "2026-10-07 12:22:47",
                     "likes": 0
                 }
             ]
