@@ -22,49 +22,6 @@
     {
       "comments" : [
         {
-          "authorName" : "SUMAIYA AKTER",
-          "content" : "sir time kokhon???",
-          "id" : "1090302026HUMM79",
-          "likes" : 5,
-          "postId" : "post_36",
-          "timestamp" : "2026-10-06 18:21:20"
-        },
-        {
-          "authorName" : "ASMA AKTER",
-          "content" : "স্যার কয়টার সময় পরীক্ষা হবে..?",
-          "id" : "1090302025HUMD1008",
-          "likes" : 6,
-          "postId" : "post_36",
-          "timestamp" : "2026-10-06 19:17:25"
-        },
-        {
-          "authorName" : "ANIKA AKTER",
-          "content" : "sir exam ta ki 1 st year are jonno",
-          "id" : "1090302026HUMD422311",
-          "likes" : 0,
-          "postId" : "post_36",
-          "timestamp" : "2026-10-07 06:05:18"
-        },
-        {
-          "authorName" : "Shibbir Hossen",
-          "content" : "8:30 e suru",
-          "id" : "comment_1",
-          "likes" : 7,
-          "postId" : "post_36",
-          "timestamp" : "2026-10-07 06:53:50"
-        }
-      ],
-      "content" : "তোমাদের পরীক্ষা আগামী সপ্তাহে হবে\nরবি- ইংরেজি বিভাগ 11 তারিখ\nসোম- বাংলা বিভাগ 12 তারিখ\nমঙ্গল- রাষ্ট্র বিজ্ঞান 13 তারিখ",
-      "likes" : 12,
-      "postId" : "post_36",
-      "teacherName" : "Shibbir Hossen",
-      "teacherProfilePic" : "default_url",
-      "timestamp" : "2026-10-06 16:51:07",
-      "title" : "অনার্স ব্যাবহারিক"
-    },
-    {
-      "comments" : [
-        {
           "authorName" : "TAYIBA TAHSIN RIZMI",
           "content" : "2025 and 2024 shudhu?",
           "id" : "1090302027SCIM14",
